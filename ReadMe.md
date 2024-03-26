@@ -44,4 +44,7 @@ Ce projet tente de répondre à la problématique ci-dessus.
 
 - Evolution 
 ## Application
+
+## Data Architecture ( Yann)
+
 ## Hosting (réservé à Augustin)
