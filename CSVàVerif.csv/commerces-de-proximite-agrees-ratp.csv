@@ -1,0 +1,985 @@
+﻿identifiant commerce;point geo;dea_jour_fermeture;dea_numero_rue_livraison;dea_code_postal_livraison;dea_commune_livraison;dea_nom_commerce
+520488;48.852471, 2.404497;;120 rue de Bagnolet;75020;Paris;Le Saint-Germain
+520659;48.806631, 2.573339;;19 Av. du Général de Gaulle;94420;Le Plessis-Trévise;Tabac Le Brazza
+530393;48.839047, 2.332933;;166 Bd du Montparnasse;75014;Paris;Tabac l'Observatoire
+530444;48.690001, 2.317861;Dimanche;10 rue du Dr Roux;91160;Longjumeau;Librairie des Coteau
+530520;48.781734, 2.358716;;92 rue Youri Gagarine;94800;Villejuif;Tabac Presse
+530535;48.702005, 2.321789;Lundi;71 rue Pierre Mendes France;91380;Chilly-Mazarin;Le Cardinal
+530571;48.784344, 2.381742;Dimanche;63 Av. Paul Vaillant-Couturier;94400;Vitry-sur-Seine;Le Totem
+540259;48.880661, 2.377187;Dimanche;10 Bd de la Villette;75019;Paris;Le Rendez Vous
+540643;48.798248, 2.192895;Dimanche;1945 Av. Roger Salengro;92370;Chaville;La Pointe Presse
+510353;48.926672, 2.261993;Dimanche;8 Pl. Louis Aragon;92700;Colombes;Le Mondial
+510425;48.86797, 2.27538;;178 Av. Victor Hugo;75016;Paris;Le Lamartine
+510522;48.86797, 2.27538;Dimanche;174 rue de la Pompe;75016;Paris;Plum2000
+510563;48.869491, 2.223011;Dimanche;39 Av. Édouard Vaillant;92150;Suresnes;Le Rond Point
+510588;48.894782, 2.322923;Dimanche;192 Bd de Malesherbes;75017;Paris;Café Malesherbes
+510597;48.853806, 2.293985;;8 Pl. Falguière;75015;Paris;Tabac la Place
+510618;48.827616, 2.242153;;82 rue du Chateau;92100;Boulogne-Billancourt;Comptoir des Frangin
+510628;48.827616, 2.242153;Dimanche;253 Bd Jean Jaurès;92100;Boulogne-Billancourt;La Civette du Pont
+510647;48.853806, 2.293985;;129 rue de Vaugirard;75015;Paris;Le Falguière
+520353;48.880472, 2.488725;Dimanche;2 Av. du Gal de Gaulle C.Cial R2;93110;Rosny-sous-Bois;Civette Rosny 2
+520483;48.881857, 2.416383;;159 rue de Paris;93260;Les Lilas;Le Jean Bart
+520503;48.967657, 2.357364;;2 Pl. du Général Leclerc;93380;Pierrefitte-sur-Seine;Bar l'Express
+520531;48.962282, 2.316664;Dimanche;63 Av. Mathieu Chazotte;95170;Deuil-la-Barre;Les Mortefontaines
+520567;48.88079, 2.506624;Dimanche;162 Grande Rue;93250;Villemomble;Tabac Le Sévigné
+520590;48.860773, 2.385278;;128 rue de Charonne;75011;Paris;Le 1930
+520634;48.842835, 2.570692;;2 All. André Malraux;93160;Noisy-le-Grand;Le Piazza
+530309;48.784344, 2.381742;;124 rue Julian Grimau;94400;Vitry-sur-Seine;Le Nemrod
+530361;48.852773, 2.340696;;22 rue Saint-André des Arts;75006;Paris;Tabac Saint-Michel
+530422;48.816396, 2.384721;Dimanche;81 Bd de Brandebourg;94200;Ivry-sur-Seine;Tabac de la Gare
+530440;48.689817, 2.329516;Dimanche;7 Pl. Lucien Boilleau;91420;Morangis;Le Marigny
+530579;48.823588, 2.415928;Dimanche;1 Av. Mar. de Lattre de Tassigny;94220;Charenton-le-Pont;L' aubrac
+540239;48.894782, 2.322923;Dimanche;78 Av. de la Grande Armée;75017;Paris;Le Maillot
+510038;48.892534, 2.281958;Dimanche;62 rue Baudin;92300;Levallois-Perret;L'Ariel
+510239;48.955869, 2.295877;;32 rue de Paris;93800;Épinay-sur-Seine;Le Bistrot de Paris
+510400;48.778134, 2.236447;Dimanche;16 rue de Versailles;92140;Clamart;Tabac Le Versailles
+510464;48.884769, 2.335947;;173 rue Ordener;75018;Paris;Le Vizir
+510474;48.853806, 2.293985;;3 Pl. Balard;75015;Paris;Le Balard
+510490;48.923104, 2.206163;;5 Av. Gabriel Péri;95870;Bezons;Tabac de la Mairie
+510499;48.90196, 2.299159;Dimanche;29 Bd du Gén. Leclerc;92110;Clichy;Royal Clichy
+510543;48.880008, 2.203497;Dimanche;1 rue de la Source;92000;Nanterre;Ets la Source
+510555;48.873091, 2.344131;;69 rue Saint Lazare;75009;Paris;Civette Trinité
+510592;48.884769, 2.335947;Dimanche;68 rue du Poteau;75018;Paris;Tabac 68
+510614;48.873091, 2.344131;;105 rue du Fbg Poissonnière;75009;Paris;Les Volcans
+510626;48.819445, 2.247853;;2 Rd-Pt Victor Hugo;92130;Issy-les-Moulineaux;L'Aviation
+510648;48.884769, 2.335947;;3 Pl. Hébert;75018;Paris;La Rotonde Hébertine
+520332;48.92996, 2.35306;;15 Chemin d'Aubervilliers;93200;Saint-Denis;La Royale
+520456;48.921914, 2.539255;;69 Av. du Mar. Leclerc;93190;Livry-Gargan;Le Lonchamps
+530279;48.80992, 2.335137;Dimanche;25 Av. Vladimir Ilitch Lénine;94110;Arcueil;Le Milton
+530453;48.839047, 2.332933;Dimanche;37 rue Raymond Losserand;75014;Paris;Le Fontenoy
+530519;48.804137, 2.460826;;11 Av. du Général Pierre Billotte;94000;Créteil;Tabac Presse
+540605;48.908254, 2.251715;Dimanche;1 rue de L'Arrivée;92250;La Garenne-Colombes;Le Celtique
+510232;48.827616, 2.242153;Dimanche;99 Av. Edouard Vaillant;92100;Boulogne-Billancourt;Le Royal Tabac
+510233;48.892534, 2.281958;Dimanche;51 rue Aristide Briand;92300;Levallois-Perret;Le Celtique
+510458;48.81057, 2.249817;;32 rue de la République;92190;Meudon;A Rabelais
+510539;48.881508, 2.232296;Dimanche;65 Q. de Dion-Bouton;92800;Puteaux;Civette de Puteaux
+510593;48.892534, 2.281958;Dimanche;48 rue Gabriel Péri;92300;Levallois-Perret;Le Balto
+520432;48.860773, 2.385278;;9 rue des Trois Bornes;75011;Paris;L'Amicale
+520482;48.921989, 2.370849;Jeudi;11 Av. Jean Jaurès;93300;Aubervilliers;Le Rallye
+520643;48.818074, 2.541709;Jeudi;181 rue Diderot;94500;Champigny-sur-Marne;Tabac Bord de Marne
+530103;48.852773, 2.340696;Dimanche;30 rue Notre-Dame-des-Champs;75006;Paris;Le Calumet
+530338;48.813513, 2.449794;Lundi;157 bis rue Jean Jaurès;94700;Maisons-Alfort;Le Mondial
+530382;48.831735, 2.367073;;136 Av. d'Italie;75013;Paris;Pourquoi Pas
+530498;48.781122, 2.29044;;151 rue Houdan;92330;Sceaux;Stardust
+530565;48.856246, 2.323946;;17 rue de Bourgogne;75007;Paris;Civette  l'Assemblée
+530572;48.737834, 2.398297;Dimanche;14 Voie des Saules;94310;Orly;Le St-Exupéry
+540123;48.772566, 2.327217;Lundi;1 Av. Henri Barbusse;94240;L'Haÿ-les-Roses;Au Petit Robinson
+540142;48.773379, 2.486271;Dimanche;3 Av. du Bicentenaire;94380;Bonneuil-sur-Marne;Bonn' News
+540515;48.798248, 2.192895;Dimanche;1494 Av. Roger Salengro;92370;Chaville;Le Muguet
+540552;48.8491, 2.371086;Dimanche;56 rue Jacques Hillairet;75012;Paris;Tabac Montgallet
+540660;48.873091, 2.344131;Dimanche;32 rue Caumartin;75009;Paris;La Bouffarde Opéra
+510181;48.853806, 2.293985;Dimanche;52-56 rue de la Croix-Nivert;75015;Paris;L‘Alliance
+510234;48.894782, 2.322923;Dimanche;108 Av. des Ternes;75017;Paris;Tabac des Ternes
+510424;48.869491, 2.223011;Dimanche;37 Av. Jean Jaurès;92150;Suresnes;Le Calumet
+510472;48.880008, 2.203497;Lundi;1 rue de Stalingrad;92000;Nanterre;Le Balto
+510495;48.91352, 2.267197;Mercredi;323 Av. d'Argenteuil;92270;Bois-Colombes;Etoile
+510561;48.872522, 2.373632;Dimanche;72 Bd de Strasbourg;75010;Paris;Tabac de l'Est
+510564;48.894782, 2.322923;;14 rue Poncelet;75017;Paris;Civette Ponce
+510666;48.926672, 2.261993;Dimanche;81 rue Gabriel Péri;92700;Colombes;Le Gala
+520161;48.987779, 2.422539;;5 Av. Pierre Sémard;95400;Arnouville;Café de la Gare
+520294;48.903216, 2.576477;Dimanche;43 rue Henri Barbusse;93370;Montfermeil;Tabac de la Mairie
+520467;48.824282, 2.537435;;77 rue du Général de Gaulle;94350;Villiers-sur-Marne;Le Rallye
+520510;48.818074, 2.541709;Dimanche;190 Bd  de Stalingrad;94500;Champigny-sur-Marne;Le Balto
+520521;48.920796, 2.483518;Lundi;1 Bd de Strasbourg;93600;Aulnay-sous-Bois;Le Strasbourg
+530079;48.783563, 2.523177;Dimanche;9 rte de la Libération;94430;Chennevières-sur-Marne;A l'Hirondelle
+530181;48.80992, 2.335137;Dimanche;71 Av. Aristide Briand;94110;Arcueil;La Croix d'Arcueil
+530447;48.823588, 2.415928;;197 rue de Paris;94220;Charenton-le-Pont;Le Mogador
+530462;48.801869, 2.475841;;2 Pl. Jacques Tati;94100;Saint-Maur-des-Fossés;Le Diplomate
+530484;48.849498, 2.347052;Dimanche;36 rue Gay Lussac;75005;Paris;Le Week End
+530540;48.784344, 2.381742;Samedi;120 Av. Ernest Havet;94400;Vitry-sur-Seine;Le Fontenoy
+530541;48.8106, 2.414328;Dimanche;17 Av. Malleret Joinville;94140;Alfortville;Tabac de la Gare
+530588;48.788663, 2.282858;;110 rue Boucicaut;92260;Fontenay-aux-Roses;Fontaine aux Roses
+540057;48.860773, 2.385278;Dimanche;203 rue du Faubourg Saint-Antoine;75011;Paris;Tabac Saint Antoine
+540083;48.716083, 2.40649;Lundi;34 Av. François Mitterrand;91200;Athis-Mons;Le Fontenoy
+540251;48.894782, 2.322923;Dimanche;30 rue des Batignolles;75017;Paris;Le Marigny
+540400;48.819445, 2.247853;Dimanche;1 rue Auguste Gervais;92130;Issy-les-Moulineaux;Hall de Presse
+540480;48.853806, 2.293985;Dimanche;294 - 296 rue de Vaugirard;75015;Paris;Le Brazza
+540547;48.831735, 2.367073;Dimanche;32 R.Vergniaud;75013;Paris;Le Rond Point
+510208;48.875598, 2.194162;Dimanche;58 Av. de Fouilleuse;92500;Rueil-Malmaison;La Tabatière
+510257;48.892534, 2.281958;Dimanche;43 rue d'Alsace;92300;Levallois-Perret;Le Tabac de l'Ouest
+520128;48.915483, 2.467763;Dimanche;76 rue Roger Salengro;93700;Drancy;Le Brazza
+520185;48.8491, 2.371086;Dimanche;6 rue Chambertin;75012;Paris;Le Bercy
+510278;48.884769, 2.335947;;55 rue Lamarck;75018;Paris;Le Lamarck
+510378;48.853806, 2.293985;Dimanche;294 rue Lecourbe;75015;Paris;L'Etincelle
+510444;48.884769, 2.335947;;56 rue des Abbesses;75018;Paris;Tabac le Nazir
+510664;48.897048, 2.241683;Dimanche;3 rue de Colombes;92400;Courbevoie;Le Chiquito
+520129;48.915483, 2.467763;Lundi;78 Av. Marceau;93700;Drancy;Le Voltigeur
+520338;48.941418, 2.440288;;213 Av. Paul Vaillant-Couturier;93150;Le Blanc-Mesnil;Les Copains
+520593;48.921989, 2.370849;;120 rue Hélène Cochonnec;93300;Aubervilliers;Tabac Presse
+530263;48.808009, 2.281393;;1 rue de la Gare;92320;Châtillon;Café de la Mairie
+530335;48.858354, 2.344695;Dimanche;26 rue de la Reynie;75001;Paris;Tabac de la Reynie
+530380;48.849498, 2.347052;;4 rue de Mirbel;75005;Paris;Le Mirbel
+530418;48.831735, 2.367073;Dimanche;21 rue de la Butte aux Cailles;75013;Paris;Le Longchamps
+530545;48.79913, 2.319124;;2 rue de la République;92220;Bagneux;Le  Bretagne
+530576;48.819501, 2.322161;;68 Av. Henri Ginoux;92120;Montrouge;Le Disque Bleu
+530590;48.696195, 2.366012;;28 Grande Rue;91260;Juvisy-sur-Orge;Tabac le Balto
+540276;48.872522, 2.373632;Mardi;63 rue du Fbg Saint-Denis;75010;Paris;Le Reilhac
+540583;48.81049, 2.347848;Dimanche;28 rue Charles Frérot;94250;Gentilly;Librairie-Papeterie
+510225;48.86797, 2.27538;Dimanche;12 Av. de Versailles;75016;Paris;Le Kennedy
+510231;48.869491, 2.223011;Dimanche;2 Pl. de Stalingrad;92150;Suresnes;Tabac du Théâtre
+510445;48.955869, 2.295877;Lundi;132 Av. Joffre;93800;Épinay-sur-Seine;Le Cygne d'Enghien
+510514;48.897048, 2.241683;Dimanche;73 Av. de la République;92400;Courbevoie;La Baraka
+510526;48.778134, 2.236447;Dimanche;21 rue du Trosy;92140;Clamart;Tabac de la Mairie
+520094;48.964359, 2.882846;Dimanche;15 rue Cornillon;77100;Meaux;Le Cornillon
+520376;48.860773, 2.385278;Dimanche;39 rue Saint-Ambroise;75011;Paris;Le Gallia
+520412;48.8491, 2.371086;Dimanche;68 Av. Daumesnil;75012;Paris;Les Arcades
+520440;48.917975, 2.362521;;171 Av. du Pdt Wilson;93210;La Plaine-Saint-Denis;La Mont Joie
+530400;48.813513, 2.449794;Dimanche;61 Av. du Gén. de Gaulle;94700;Maisons-Alfort;Le Chiquito
+530522;48.819501, 2.322161;Dimanche;79/81 Av. Pierre Brosselette;92120;Montrouge;Café de l' Europe
+530550;48.772566, 2.327217;;81 Av. du Général de Gaulle;94240;L'Haÿ-les-Roses;Tabac Presse
+530563;48.839047, 2.332933;;7 Pl. du 25 Août 1944;75014;Paris;La Rotonde
+530583;48.804137, 2.460826;;115 rue Chéret;94000;Créteil;Le Royal Bleuet
+540283;48.921989, 2.370849;Dimanche;167 Av. Victor Hugo;93300;Aubervilliers;Galaxie Millionnaire
+540314;48.915483, 2.467763;Dimanche;60 rue St-Stenay - CCial Avenir;93700;Drancy;Presse Avenir
+540331;48.928676, 2.527589;Dimanche;CCial Beausevran - Rte Petits Ponts;93270;Sevran;Le Totem
+540424;48.86797, 2.27538;Dimanche;6 Chaussée de la Muette;75016;Paris;Tabac de la Muette
+540459;48.790711, 2.221407;Lundi;18 All.  Marcel Simon;92360;Meudon-la-Forêt;La Camargue
+510070;48.880008, 2.203497;Dimanche;11 Esplanade Charles de Gaulle;92000;Nanterre;La Civette Du Parc
+510128;48.881508, 2.232296;Dimanche;Ccial Les 4 Temps 2 Parvis de la Déf;92800;Puteaux;Tabac des 4 Temps
+510173;48.86797, 2.27538;Dimanche;108 Av. Mozart;75016;Paris;Le Mozart
+510235;48.873091, 2.344131;Dimanche;42 rue Lafayette;75009;Paris;Le Vizir
+510381;48.877615, 2.312373;Dimanche;91 rue du Rocher;75008;Paris;Tabac du Rocher
+510504;48.86797, 2.27538;;51 rue de la Tour;75016;Paris;Tabac de la Tour
+510554;48.877615, 2.312373;Dimanche;23 de Rome;75008;Paris;La boite à cigare
+520165;48.999638, 2.374782;Dimanche;14 R.de Toulouse Ccl Les Flanades;95200;Sarcelles;Les Volutes
+520307;48.82007, 2.465875;;52 Av. du Général Galliéni;94340;Joinville-le-Pont;Le Rocher Fleuri
+520375;48.850335, 2.446414;Dimanche;18 Av. de Paris;94300;Vincennes;Le Drapeau
+520439;48.872522, 2.373632;Dimanche;47 rue de la Grange aux belles;75010;Paris;Le Lutétia
+520469;48.855626, 2.357026;;44 rue de Rivoli;75004;Paris;Le Tabac de Rivoli
+520478;48.921989, 2.370849;;98 rue Sadi Carnot;93300;Aubervilliers;Le Pont de Stains
+520600;48.93221, 2.405656;;130 Av. Paul Vaillant Couturier;93120;La Courneuve;Le Vaillant
+520620;48.915368, 2.551732;;17 All. Anatole France;93390;Clichy-sous-Bois;La Perle
+520632;48.999638, 2.374782;;4 rue Raymond Radiguet;95200;Sarcelles;Tabac de la Place
+530056;48.781734, 2.358716;Dimanche;60 Av. de Paris;94800;Villejuif;7ème Avenue
+530062;48.781734, 2.358716;Dimanche;63 rue du Moulin de Saquet;94800;Villejuif;Tabac - Presse
+530142;48.831735, 2.367073;Dimanche;25 Bd Auguste Blanqui;75013;Paris;Le Celtique
+530201;48.849498, 2.347052;Dimanche;62 Bd du Port Royal;75005;Paris;Café Lilou
+530307;48.77925, 2.27773;Dimanche;1 Pl. Voltaire;92290;Châtenay-Malabry;Le Voltaire
+530553;48.689817, 2.329516;;88 Av. Aristide Briand;91420;Morangis;Le Longchamps
+540238;48.884769, 2.335947;Dimanche;2 rue Frédéric Schneider Hall 1;75018;Paris;Tabac Point Presse
+540349;48.852773, 2.340696;Dimanche;110 rue d'Assas;75006;Paris;Les Facultés
+540562;48.8491, 2.371086;Dimanche;1 Pl. Lachambeaudie;75012;Paris;La Terrasse
+510256;48.935661, 2.329171;;13 rue Henri Barbusse;92390;Villeneuve-la-Garenne;La Rotonde
+510406;48.853806, 2.293985;Dimanche;44 rue du Dr  Roux;75015;Paris;Au Jean Bart
+510567;48.926672, 2.261993;;5 rue du Bournard;92700;Colombes;Le  Village
+510667;48.869491, 2.223011;Dimanche;116 Bd du Mal  Lattre de Tassigny;92150;Suresnes;Mag Presse
+520379;48.881093, 2.431978;Dimanche;8 Route de Montreuil;93230;Romainville;Le Brazza
+520397;48.893158, 2.412544;;36 Av. du Cimetière Parisien;93500;Pantin;Le Paris-Lille
+520525;48.88079, 2.506624;;7 Pl. de la Gare;93250;Villemomble;Tabac de La Gare
+520561;48.818074, 2.541709;Mardi;123 rue du Monument;94500;Champigny-sur-Marne;Tabac du Fort
+520577;48.953432, 2.419177;;1 Pl. Gabriel Péri;93440;Dugny;Tabac Le Flash
+520616;48.872522, 2.373632;;217 rue Saint Maur;75010;Paris;Le St Maur
+520624;48.962282, 2.316664;;23 R.de la Gare;95170;Deuil-la-Barre;Le Celtique
+520646;48.941418, 2.440288;Dimanche;138 Av. Pasteur;93150;Le Blanc-Mesnil;Le Pasteur
+530247;48.765389, 2.365802;;4 rue Henri Crette;94550;Chevilly-Larue;Le Marigny
+530284;48.80992, 2.335137;Dimanche;123 Av. Aristide Briand;94110;Arcueil;Le Brazza
+530479;48.856246, 2.323946;;45 rue vaneau;75007;Paris;Tabac des Ministères
+530491;48.808009, 2.281393;;4 rue Jean-Pierre Timbaud;92320;Châtillon;Civette du Centre
+530529;48.804137, 2.460826;Dimanche;1 rue de Mesly;94000;Créteil;Maison de la presse
+540668;48.849498, 2.347052;Dimanche;21 rue Jean de Beauvais;75005;Paris;Collège de France
+510004;48.904633, 2.338298;Dimanche;2 Av. Michelet;93400;Saint-Ouen;Le Boyard
+510431;48.81057, 2.249817;Dimanche;19 rue Banes;92190;Meudon;Café de la Gare
+510435;48.897048, 2.241683;;11 Av. de la Liberté;92400;Courbevoie;Tabac Becon
+510440;48.880008, 2.203497;Dimanche;5 Pl. de la Boule;92000;Nanterre;Tabac de la Boule
+510459;48.877055, 2.249204;;197 Av. Charles de Gaulle;92200;Neuilly-sur-Seine;Le Madrilène
+510481;48.844596, 2.219476;Dimanche;140 bd de la République;92210;Saint-Cloud;Le Beau Site
+510493;48.827616, 2.242153;Dimanche;97 Route de la Reine;92100;Boulogne-Billancourt;Le Marigny
+510569;48.923104, 2.206163;;41 rue de Sartrouville;95870;Bezons;Mag Presse
+510640;48.915494, 2.298299;Dimanche;11 Bis rue Mozart;92230;Gennevilliers;Le Mozart
+520344;48.851236, 2.450921;Dimanche;1 CCial du Val de Fontenay;94120;Fontenay-sous-Bois;Ambiance J
+520417;48.967657, 2.357364;Dimanche;52 Bd  Pasteur;93380;Pierrefitte-sur-Seine;Le Diplomate
+520434;48.93221, 2.405656;;52 Av. Paul Vaillant Couturier;93120;La Courneuve;Tabac des 4 Routes
+520594;48.961565, 2.341559;Dimanche;10 Route de Saint Leu;93430;Villetaneuse;Le New Rallye
+520597;48.852471, 2.404497;;66 rue de Belleville;75020;Paris;Le Baccara
+520623;48.915483, 2.467763;Lundi;229 Av. Jean Jaurès;93700;Drancy;Le Balto
+530197;48.831735, 2.367073;Dimanche;12 Bd  Vincent Auriol;75013;Paris;Tabac Anaïs
+530251;48.852773, 2.340696;;64 rue de Seine;75006;Paris;Tabac St-Germain
+530405;48.784344, 2.381742;Lundi;131 Bd Stalingrad;94400;Vitry-sur-Seine;Papeterie - Presse
+530475;48.781734, 2.358716;;9 rue Verollot;94800;Villejuif;Le Bergerac
+530549;48.784344, 2.381742;Dimanche;2 rue Audigeois;94400;Vitry-sur-Seine;Le Tabariot
+510157;48.778134, 2.236447;Dimanche;72 rue Paul Vaillant-Couturier;92140;Clamart;Le Narval
+510199;48.880008, 2.203497;Dimanche;36 rue Henri Barbusse;92000;Nanterre;Le Fontenoy
+510259;48.77766, 2.268352;Lundi;5 rue du Tour de L'Étang;92350;Le Plessis-Robinson;Le Celtique
+510389;48.875598, 2.194162;Dimanche;191 Av. Napoléon Bonaparte;92500;Rueil-Malmaison;Presse'tige
+510470;48.86797, 2.27538;;188 Av. de Versailles;75016;Paris;Le Havane
+510483;48.853806, 2.293985;Dimanche;158 Rd-Pt St-Charles;75015;Paris;Civette St-Charles
+510524;48.884769, 2.335947;;156 Av. de Saint Ouen;75018;Paris;Le Nouveau Siècle
+510620;48.86797, 2.27538;;112 rue Lauriston;75016;Paris;Le Drugstore
+520009;48.852471, 2.404497;Dimanche;82 Bd de Belleville;75020;Paris;Tabac d'Eden
+520487;48.982847, 2.453323;Dimanche;1 Av. Georges Pompidou;95500;Gonesse;Presse Grande Vallée
+520506;48.872522, 2.373632;;4 Bd  de Denain;75010;Paris;La Cave à Cigares
+520513;48.780426, 2.603817;Lundi;/ Av.de la République C.Cial2000;77340;Pontault-Combault;Tabac Peng
+520541;48.869408, 2.552452;Dimanche;10 Pl. du Chamoine Héroux;93330;Neuilly-sur-Marne;Civette de la Mairie
+530183;48.831735, 2.367073;Dimanche;242 rue de Tolbiac;75013;Paris;L'Ariel
+530205;48.804137, 2.460826;Dimanche;107 Av. du Gén. de Gaulle;94000;Créteil;La Civette
+530289;48.716083, 2.40649;;105 Av. du 18 avril;91200;Athis-Mons;Le Mozart
+530334;48.866625, 2.351731;Dimanche;17 Bd Montmartre;75002;Paris;La Tabatière
+530370;48.839047, 2.332933;Dimanche;47 rue Boulard;75014;Paris;Le Flash
+530560;48.804137, 2.460826;Dimanche;12 All. du Commerce;94000;Créteil;Halle de Presse
+530567;48.804452, 2.351878;Dimanche;16Ter Bd Chasteney de Géry;94270;Le Kremlin-Bicêtre;Le Bicêtre
+530580;48.813513, 2.449794;Dimanche;22 Cours des Julliottes;94700;Maisons-Alfort;Tabac des Julliottes
+540024;48.850335, 2.446414;Dimanche;64 Bd de la Libération;94300;Vincennes;Le Berry
+540346;48.915483, 2.467763;Dimanche;95 Av. Henri Barbusse;93700;Drancy;Maison De La Presse
+540661;48.860773, 2.385278;Dimanche;32 bd Richard-Lenoir;75011;Paris;Habanos
+510170;48.81057, 2.249817;Dimanche;13 Pl. de Stalingrad;92190;Meudon;Les Tilleuls
+510192;48.81057, 2.249817;Dimanche;17BIS rue Marcel Allegot;92190;Meudon;Seventeen
+510288;48.873091, 2.344131;;20 rue des Martyrs;75009;Paris;L'Ariel
+510456;48.869491, 2.223011;Dimanche;4 Pl. du général Leclerc;92150;Suresnes;Civette Saint-Claude
+510535;48.873091, 2.344131;;5 rue Godot de Mauroy;75009;Paris;Le Cigarium
+510562;48.778134, 2.236447;;175 Av. Victor Hugo;92140;Clamart;Le Victor Hugo
+510577;48.908254, 2.251715;Dimanche;12 Rd-Pt du Souvenir Français;92250;La Garenne-Colombes;Hotel de Ville Café
+510587;48.923104, 2.206163;Dimanche;29 rue Victor Hugo;95870;Bezons;Le Victor Hugo
+510604;48.894782, 2.322923;;204 rue de Coucelles;75017;Paris;Le Celtique
+510613;48.873091, 2.344131;;14 rue d' Amsterdam;75009;Paris;Tabac la Caravelle
+510646;48.894782, 2.322923;;42 rue Pierre Demours;75017;Paris;Tabac le Niel
+510658;48.926672, 2.261993;;34 Bd Edgar Quinet;92700;Colombes;L'Euphrate
+520285;48.941418, 2.440288;Dimanche;110 Av. du 8 mai 1945;93150;Le Blanc-Mesnil;Café du Musée
+520450;48.92996, 2.35306;Dimanche;44 rue Henri Barbusse;93200;Saint-Denis;Tabac la Mutualité
+520480;48.872522, 2.373632;;129 rue du Faubourg du Temple;75010;Paris;Le Jean Bart
+520589;48.893158, 2.412544;Lundi;70 Av. Jean Jaurès;93500;Pantin;Le Royal 4 Chemins
+530377;48.816396, 2.384721;;96 Av. de Verdun;94200;Ivry-sur-Seine;Les Sports
+530432;48.784344, 2.381742;Mercredi;73 Av. Rouget de l'Isle;94400;Vitry-sur-Seine;Café Milan
+530476;48.772566, 2.327217;Dimanche;9 rue de Chevilly;94240;L'Haÿ-les-Roses;Le Royal
+530489;48.804137, 2.460826;Dimanche;27 rue Falkirk;94000;Créteil;Totem
+530500;48.856246, 2.323946;Dimanche;206 rue de Grenelle;75007;Paris;Tabac de Grenelle
+530564;48.816396, 2.384721;Jeudi;34 Av. de Verdun;94200;Ivry-sur-Seine;Le Longchamps
+530586;48.852773, 2.340696;;111 rue de Rennes;75006;Paris;Civette Rennes
+540009;48.881093, 2.431978;Dimanche;160 rue de la République;93230;Romainville;Tabac - Presse
+540317;48.901601, 2.519572;Lundi;134 Av. de la Résistance;93340;Le Raincy;Le Fontenoy
+540640;48.8106, 2.414328;Mercredi;108 rue Etienne Dolet;94140;Alfortville;Le Bergerac
+510322;48.873091, 2.344131;Dimanche;38 rue de Rochechouart;75009;Paris;Le Dunhill
+510352;48.853806, 2.293985;Dimanche;380 rue de Vaugirard;75015;Paris;Le Lutèce
+510413;48.853806, 2.293985;Lundi;70 rue des Entrepreneurs;75015;Paris;Tabac Le Village
+510502;48.877055, 2.249204;Dimanche;221 Av. Charles de Gaulle;92200;Neuilly-sur-Seine;Le Celtique
+510506;48.819205, 2.287589;Mercredi;24 rue de la République;92170;Vanves;Le Maryland
+510578;48.778134, 2.236447;Dimanche;1 rue Paul Vaillant Couturier;92140;Clamart;La Civette
+510606;48.960601, 2.274468;;15 Av. du Chateau;95100;Argenteuil;Presse du Chateau
+510629;48.819205, 2.287589;;22 Av. Jacques Jezequel;92170;Vanves;Tabac de la Gare
+520438;48.872522, 2.373632;;21 rue Philippe de Girard;75010;Paris;La Rame
+520509;48.860773, 2.385278;Dimanche;64 Bd  Voltaire;75011;Paris;Café Tabac Le Flach
+520516;48.852471, 2.404497;Dimanche;1 Sq. de la Gascogne;75020;Paris;Tabac La Gascogne
+520573;48.860773, 2.385278;Dimanche;164 rue de la Roquette;75011;Paris;Royale Civette
+520585;48.869408, 2.552452;;70 rue du 11 Novembre;93330;Neuilly-sur-Marne;Lib. du Val de Marne
+520618;48.852471, 2.404497;;235 rue des Pyrénées;75020;Paris;Le Narval
+530229;48.79913, 2.319124;Dimanche;43 Av. Henri Barbusse;92220;Bagneux;Tabac - Presse
+530272;48.839047, 2.332933;Dimanche;165 Av. du Maine;75014;Paris;Tabac de la Mairie
+530397;48.804452, 2.351878;Dimanche;81 Av. de Fontainebleau;94270;Le Kremlin-Bicêtre;Le Jean Bart
+530406;48.737834, 2.398297;Lundi;73 Av. Adrien Raynal;94310;Orly;Le Fer à Cheval
+530424;48.813513, 2.449794;Mercredi;230 Av. de la République;94700;Maisons-Alfort;Le Condorcet
+530505;48.779411, 2.318471;Dimanche;102 Av. du Général Leclerc;92340;Bourg-la-Reine;Café des 2 Gares
+530531;48.693889, 2.34886;Dimanche;1 rue Henri Ouzilleau Ccial;91600;Savigny-sur-Orge;Tabac Grand Vaux
+540217;48.897048, 2.241683;Dimanche;17 Av. Léonard de Vinci;92400;Courbevoie;Tabac Le Vinci
+540528;48.858354, 2.344695;Dimanche;43 rue des Petits-Champs;75001;Paris;Tabac des Petits C
+540611;48.784344, 2.381742;Dimanche;106 Av. Anatole France;94400;Vitry-sur-Seine;Victoria
+540618;48.908254, 2.251715;Dimanche;6 Pl. de la Gare des Vallées;92250;La Garenne-Colombes;Le Cyrano
+540625;48.854294, 2.438276;Dimanche;100 Av. Pasteur;93100;Montreuil;Le Villiers
+510016;48.90196, 2.299159;Lundi;64 rue de Neuilly;92110;Clichy;Tabac du Marché
+510405;48.91352, 2.267197;Samedi;31BIS rue des Bourguignons;92270;Bois-Colombes;Le Louis XV
+510507;48.894782, 2.322923;;56 rue Berzélius;75017;Paris;Le Carolène
+520535;48.880661, 2.377187;Jeudi;98 rue d'Aubervilliers;75019;Paris;Angkor
+520566;48.921989, 2.370849;Dimanche;20 rue du Moutier;93300;Aubervilliers;Tabac de la Mairie
+520575;48.852471, 2.404497;;2 Bd  Davout;75020;Paris;Tabac Au Bon Coin
+520640;48.999638, 2.374782;Dimanche;4 Pl. de la Libération;95200;Sarcelles;La Tabatière
+520656;48.872522, 2.373632;;34 Bd  de Strasbourg;75010;Paris;Le Royal Strasbourg
+530360;48.8106, 2.414328;Lundi;175 rue Paul Vaillant Couturier;94140;Alfortville;Tabac de la Mairie
+530468;48.77925, 2.27773;Lundi;99 Av. de la Division Leclerc;92290;Châtenay-Malabry;LE Longchamp
+540004;48.884468, 2.406968;Dimanche;5 Av. Faidherbe;93310;Le-Pré-Saint-Gervais;Tabac du Babylone
+540186;48.904633, 2.338298;Jeudi;67 Av. Gabriel Péri;93400;Saint-Ouen;Tabac L'Élégance
+510267;48.873091, 2.344131;Dimanche;65 rue de Maubeuge;75009;Paris;L'Energie
+510284;48.796689, 2.141748;;3 Pl. d'Isigny;78000;Versailles;Chez Ludo et Dia
+510450;48.873091, 2.344131;Dimanche;19 rue de Clichy;75009;Paris;Le Hollywood
+510534;48.819205, 2.287589;;4 rue Jean Jaurès;92170;Vanves;Le Maine-Anjou
+510621;48.90196, 2.299159;Lundi;1 Pl. de la République;92110;Clichy;Tbc de la République
+510624;48.894782, 2.322923;Dimanche;22 Bd Gouvion-St-Cyr;75017;Paris;La Rose des Sables
+510659;48.884769, 2.335947;Dimanche;29 rue Ramey;75018;Paris;Le Calumet
+520126;48.892324, 2.540729;Jeudi;162 All. de Montfermeil;93220;Gagny;Le Chavannes
+520251;48.8491, 2.371086;Dimanche;6 Cour de Vincennes;75012;Paris;Tabac des Colonnes
+520313;48.842835, 2.570692;Dimanche;CCial du Champy-9 all Bat Hildevert;93160;Noisy-le-Grand;L‘Européen
+520340;48.854294, 2.438276;Dimanche;35 Bd  Aristide Briand;93100;Montreuil;Tabac-Presse
+520386;48.856924, 2.584116;Lundi;1  Av. des Pyramides C.CIAL CARR;77420;Champs-sur-Marne;L'Harmonie
+520559;48.818074, 2.541709;Lundi;85 Av. de la République;94500;Champigny-sur-Marne;Tabac de l' Avenue
+520568;48.956737, 2.375803;Dimanche;76 rue Jean Jaurès;93240;Stains;Le Royal FV
+520619;48.909659, 2.434088;Lundi;7 Pl des Nations Unies;93000;Bobigny;Le Divin
+520638;48.881857, 2.416383;;76 rue de Paris;93260;Les Lilas;Le Calumet
+520639;48.852471, 2.404497;Dimanche;127 Av. Gambetta;75020;Paris;Civette de Pelleport
+530140;48.849498, 2.347052;Dimanche;21 Bd Saint-Michel;75005;Paris;La Corona
+530378;48.8106, 2.414328;Lundi;106 rue Véron;94140;Alfortville;Le Fortville
+530486;48.839047, 2.332933;Dimanche;92 rue Didot;75014;Paris;Le Marigny
+530495;48.839047, 2.332933;;179 rue d' Alésia;75014;Paris;Le bardinet
+530539;48.784344, 2.381742;Dimanche;25 Av. Lucien Francais;94400;Vitry-sur-Seine;Le Francais
+530585;48.690001, 2.317861;;52 54 R.du Pdt François Mitterand;91160;Longjumeau;Le Monaco
+540335;48.935736, 2.426595;Dimanche;30 Av. de la Division Leclerc;93350;Le Bourget;Bar Tabac l'Aviatic
+540543;48.816396, 2.384721;Dimanche;3 rue Pierre Curie;94200;Ivry-sur-Seine;Le Balto
+540595;48.786791, 2.330118;Dimanche;11 Pl. Gambetta;94230;Cachan;Tabac de la Mairie
+510300;48.86797, 2.27538;Dimanche;126 Bd Murat;75016;Paris;La Vitole
+510383;48.827616, 2.242153;Dimanche;143 rue de Silly;92100;Boulogne-Billancourt;Le Silly
+510636;48.819445, 2.247853;;3 Cours l'Ancienne Boulangerie;92130;Issy-les-Moulineaux;Tabac Saint-Germain
+510641;48.875598, 2.194162;Dimanche;74 rue des Bons Raisins;92500;Rueil-Malmaison;Tabac de l'Arsenal
+520245;48.872522, 2.373632;;10 rue du 8 Mai 1945;75010;Paris;La Consigne
+520253;48.824282, 2.537435;Dimanche;12 Pl. de la Gare;94350;Villiers-sur-Marne;Tabac de La Gare
+520529;48.852471, 2.404497;Lundi;142 Bd  de Ménilmontant;75020;Paris;Tabac Au Balcon
+520544;48.967811, 2.39313;Dimanche;23 Av. de la Commune de Paris;95140;Garges-lès-Gonesse;Tabac du Centre
+530036;48.813513, 2.449794;Dimanche;1 R.Eugène Renault;94700;Maisons-Alfort;Au Petit Caporal
+530193;48.80992, 2.335137;Jeudi;14 Av. du Chaperon Vert;94110;Arcueil;Le Chaperon Vert
+530253;48.816396, 2.384721;Dimanche;8 rue Raspail;94200;Ivry-sur-Seine;Brasserie des Sports
+530255;48.819501, 2.322161;;39 Av. de la République;92120;Montrouge;Le Petit Paris
+530277;48.822205, 2.421542;Lundi;56Ter Av.Mar. de Lattre de Tassigny;94410;Saint-Maurice;Royal St Maurice
+530398;48.831735, 2.367073;Dimanche;65 Bd Kellermann;75013;Paris;Tabac Store 65
+530409;48.788663, 2.282858;Dimanche;22 rue Boucicaut;92260;Fontenay-aux-Roses;ALPHA
+530429;48.839047, 2.332933;Dimanche;41 Av. du Gén. Leclerc;75014;Paris;Tabac des Catacombes
+530501;48.856246, 2.323946;;15 Av. Rapp;75007;Paris;La Civette de l'Alma
+530592;48.858354, 2.344695;;200 rue de Rivoli;75001;Paris;Tabac des Tuileries
+540007;48.881857, 2.416383;Lundi;40 Bd du Général Leclerc;93260;Les Lilas;Le Royal
+540028;48.854294, 2.438276;Mercredi;148 rue des Ruffins;93100;Montreuil;La Paix
+540124;48.771928, 2.380104;Mercredi;2BIS Av. du 25 août 1944;94320;Thiais;Tabac 3 F
+540255;48.880661, 2.377187;;1 Av. Laumière;75019;Paris;Le Marigny
+540360;48.839047, 2.332933;Dimanche;108 rue Didot;75014;Paris;Le Maryland
+510240;48.881508, 2.232296;Dimanche;4 Cours Valmy;92800;Puteaux;Le Valmy
+510583;48.853806, 2.293985;Dimanche;1 rue des Morillons;75015;Paris;L‘Ariel
+510609;48.894782, 2.322923;Dimanche;94 Bd de Courcelles;75017;Paris;Cave à Cigares
+510651;48.875598, 2.194162;Mercredi;46 rue Gallieni;92500;Rueil-Malmaison;Le Jubillé 3
+520163;48.999638, 2.374782;Dimanche;83 rue Pierre Brossolette;95200;Sarcelles;Le Celtique
+520177;48.967811, 2.39313;Dimanche;17 rue de Verdun;95140;Garges-lès-Gonesse;Tabac du Vieux Pays
+520293;48.869408, 2.552452;Dimanche;10 Bd du Mar. Foch;93330;Neuilly-sur-Marne;La Terrasse
+520352;48.962282, 2.316664;Lundi;10 Av. de la Division Leclerc;95170;Deuil-la-Barre;Le Vizir
+520391;48.880661, 2.377187;Dimanche;146 Av. Jean Jaurès;75019;Paris;Le Concorde
+520458;48.915679, 2.481798;Dimanche;24 Av. Suzanne Buisson;93140;Bondy;Tabac Suzanne
+520547;48.909659, 2.434088;;203 Av. Jean Jaurès;93000;Bobigny;Tabac le Jaurès
+520556;48.843492, 2.505362;;137 Av. du Général de Gaulle;94170;Le Perreux-sur-Marne;Le Jean Bart
+520560;48.880472, 2.488725;Samedi;22 Av. de la République;93110;Rosny-sous-Bois;Le Café de la Gare
+520581;48.90645, 2.496487;;2 Av. Victor Hugo;93320;Les Pavillons-sous-Bois;Tabac d' Hugo
+520630;48.818074, 2.541709;;1 Av. du Général de Gaulle;94500;Champigny-sur-Marne;La Fouchette
+520633;48.860773, 2.385278;;130 Bd  Voltaire;75011;Paris;Le Voltaire
+530236;48.8106, 2.414328;Dimanche;25 Pl. Salvador Allende;94140;Alfortville;Le Centre Ville
+530280;48.849498, 2.347052;Lundi;77 rue Monge;75005;Paris;Le Monge
+530376;48.779411, 2.318471;Mercredi;70 Av. Galois;92340;Bourg-la-Reine;Café des Sports
+530391;48.738695, 2.255537;;28 rue d'Estienne d'Orves;91370;Verrières-le-Buisson;Au Buisson
+530392;48.831735, 2.367073;Dimanche;58 rue Jeanne d'Arc;75013;Paris;Le Narval
+530420;48.8106, 2.414328;;16 rue Charles de Gaulle;94140;Alfortville;Le Royal 16
+530430;48.849498, 2.347052;;97 Bd Saint-Michel;75005;Paris;Le Bac Saint-Michel
+530512;48.831735, 2.367073;;75 rue Patay;75013;Paris;Tabac de Patay
+540365;48.839047, 2.332933;Dimanche;32 rue de la Sablière;75014;Paris;La Sablière
+510596;48.915494, 2.298299;;63 Av. des Grésillons;92230;Gennevilliers;Le Havane
+510602;48.880008, 2.203497;Dimanche;43 rue des Aubépines;92000;Nanterre;Tabac Loto Presse
+520033;48.85812, 2.512732;Dimanche;64 Av. Daniel Perdrige;93360;Neuilly-Plaisance;Le Madrigal
+520402;48.860773, 2.385278;;88BIS Av. Parmentier;75011;Paris;Paristar
+520464;48.921914, 2.539255;Lundi;5 Bd  Marx Dormoy;93190;Livry-Gargan;Le Rocher
+520492;48.88236, 2.620064;;2 Av. de la Résistance;77500;Chelles;Tabac Le Larzac
+520557;48.852471, 2.404497;;93 rue d'Avron;75020;Paris;Le Narval
+520645;48.880661, 2.377187;Mercredi;2 Av de la Porte Brunet;75019;Paris;Tabac Civette Brunet
+520658;48.843492, 2.505362;;48 Av. Ledru Rollin;94170;Le Perreux-sur-Marne;Tabac du Parc
+530006;48.751833, 2.32521;Dimanche;44 Bd Pasteur;94260;Fresnes;Librairie Peupleraie
+530033;48.742341, 2.458465;Dimanche;70 Av. Henri Barbusse;94460;Valenton;Le Val Pompadour
+530159;48.831735, 2.367073;Dimanche;215 rue de Tolbiac;75013;Paris;Journaux - Presse
+530471;48.737834, 2.398297;Dimanche;46 rue du Commerce;94310;Orly;Le Narval
+530555;48.831735, 2.367073;;10 Pl Pinel;75013;Paris;Civette Nationale
+530587;48.801869, 2.475841;Dimanche;1 Pl. de Rimini;94100;Saint-Maur-des-Fossés;Le Gambetta
+540095;48.804137, 2.460826;Mardi;103 rue du Gén. Leclerc;94000;Créteil;Le Diplomate
+540184;48.90196, 2.299159;Dimanche;45 Bd Jean Jaurès;92110;Clichy;Le Havane
+540474;48.856246, 2.323946;Dimanche;5 Av. de Suffren;75007;Paris;Le Castel
+540615;48.877055, 2.249204;Dimanche;54 Av. du Roule;92200;Neuilly-sur-Seine;Le Marly
+510365;48.853806, 2.293985;;75 rue Labrouste;75015;Paris;Le Wilson
+510488;48.90196, 2.299159;Dimanche;11 rue Georges Seurat;92110;Clichy;Au Ptit Creux Gourma
+510556;48.8491, 2.371086;Dimanche;240 rue du Charenton;75012;Paris;Le Dugommier
+510607;48.790711, 2.221407;Mercredi;8 rue Saint-Exupéry;92360;Meudon-la-Forêt;Tabac Saint Exupéry
+510631;48.798248, 2.192895;;766 Av. Roger Salengro;92370;Chaville;Tabac de la Paix
+510662;48.853806, 2.293985;Dimanche;37 rue Lecourbe;75015;Paris;Tabac Lecourbe
+520512;48.818074, 2.541709;Lundi;182 Av. Maurice Thorez;94500;Champigny-sur-Marne;Le Prestige
+520523;48.956737, 2.375803;;60 rue Parmentier;93240;Stains;Le Celtique
+520611;48.850727, 2.643369;Dimanche;6 All. Jean Baptiste Colbert;77200;Torcy;Tabac de la Mairie
+530204;48.718772, 2.439216;;2 rue du Pdt Robert Lakota;91270;Vigneux-sur-Seine;L'Express
+540633;48.872522, 2.373632;Dimanche;88 rue du Faubourg-Saint-Martin;75010;Paris;Le Coq D'Or
+510178;48.824202, 2.220115;Lundi;38 Route du Pavé des Gardes;92310;Sèvres;Le Pavé des Gardes
+510332;48.960601, 2.274468;Dimanche;34 Av. du Mar. Foch;95100;Argenteuil;Le Bistrot
+510417;48.926672, 2.261993;Lundi;9 Av. de l'Agent Sarre;92700;Colombes;Tabac de la Gare
+510449;48.86797, 2.27538;;15 rue Singer;75016;Paris;Le Diplomate
+510468;48.926672, 2.261993;;41 rue Saint-Denis;92700;Colombes;Tabac aux sports
+510548;48.884769, 2.335947;;18 Av. de Clichy;75018;Paris;La Divette de Clichy
+510574;48.960601, 2.274468;;57 Av. de Stalingrad;95100;Argenteuil;Tabac d'Orgemont
+510665;48.894782, 2.322923;Dimanche;55 Bd Pereire;75017;Paris;Tabac Le Tocqueville
+520070;48.818074, 2.541709;Dimanche;2 Pl. Rodin;94500;Champigny-sur-Marne;Tabac du Bois l'Abbé
+520112;48.967657, 2.357364;Dimanche;80 Av. Lénine;93380;Pierrefitte-sur-Seine;Le Fuégo
+520170;48.982847, 2.453323;Dimanche;35 rue du Général Leclerc;95500;Gonesse;Le Maracana
+520370;48.915368, 2.551732;Dimanche;4 All. de Gagny (C.Cial);93390;Clichy-sous-Bois;Tabac  Marronniers
+520517;48.843492, 2.505362;Dimanche;219 Av. Pierre Brossolette;94170;Le Perreux-sur-Marne;Bar-Tabac Le Start
+520582;48.8491, 2.371086;Dimanche;2 Pl. de la Nation;75012;Paris;Tabac du Canon
+530336;48.849498, 2.347052;Samedi;13 rue Monge;75005;Paris;Tabac de la Mutualit
+530387;48.831735, 2.367073;;2 rue Jeanne d'Arc;75013;Paris;Le Jeanne d' Arc
+530525;48.852773, 2.340696;;50-52 rue du Cherche-Midi;75006;Paris;Cherche Midi Presse
+530574;48.804452, 2.351878;Dimanche;25 Av. Charles Gide;94270;Le Kremlin-Bicêtre;Tabac La Plume Verte
+540066;48.852471, 2.404497;Dimanche;8 rue Henri Duvernois;75020;Paris;Tabac Alexandre
+540107;48.804137, 2.460826;Dimanche;2 rue Saint-Simon;94000;Créteil;L'Interlude
+540388;48.778134, 2.236447;Samedi;82 Av. Henri Barbusse;92140;Clamart;Le Fleury
+540422;48.86797, 2.27538;Dimanche;39 rue de Passy;75016;Paris;La Favorite
+510321;48.877615, 2.312373;;5 BIS rue du Rocher;75008;Paris;Le Rocher St-Lazare
+510339;48.873091, 2.344131;Dimanche;10 rue Drouot angle 4R. Rossini;75009;Paris;Café Drouot
+510407;48.897048, 2.241683;Samedi;36BIS Square des Corolles;92400;Courbevoie;Presse Le Protocole
+510451;48.892534, 2.281958;;57 rue Jean Jaurès;92300;Levallois-Perret;Le Lonchamps
+510521;48.819445, 2.247853;Dimanche;58 Av. Victor Cresson;92130;Issy-les-Moulineaux;Le Porte Plume
+510528;48.936836, 2.171536;;CCial Carrefour - 6 place Stendhal;78500;Sartrouville;Librairie des Indes
+510575;48.877615, 2.312373;Dimanche;68 rue de la Boétie;75008;Paris;Saint Philippe Roule
+510645;48.880008, 2.203497;Dimanche;27 Bd du gèn. Leclerc;92000;Nanterre;la Civette de L'Ile
+520099;48.847656, 2.618331;Dimanche;37 Cours des Roches;77186;Noisiel;L'étoile des Roches
+520497;48.860773, 2.385278;;21 rue Daval;75011;Paris;Tabac Bastille
+520572;48.8491, 2.371086;;247 rue de Charenton;75012;Paris;Bar Tabac Le Narval
+530169;48.858354, 2.344695;Dimanche;6 rue Croix des Petits Champs;75001;Paris;Le Petit Flore
+530395;48.856246, 2.323946;Dimanche;41 Av. Duquesne;75007;Paris;Le Paris Duquesne
+530441;48.751833, 2.32521;;57 Av.de la République;94260;Fresnes;Le Diplomate
+530503;48.808009, 2.281393;;80 Av. Marcellin Bethelot;92320;Châtillon;La Tabatière
+530521;48.852773, 2.340696;;54 rue Notre Dame des Champs;75006;Paris;La Civette Brea
+540269;48.880661, 2.377187;Dimanche;125 Av. Simon Bolivar;75019;Paris;Le Bolivar
+540391;48.818497, 2.302658;Dimanche;29 Bd de Stalingrad;92240;Malakoff;Librairie - Presse
+540430;48.827616, 2.242153;Dimanche;22 rue Denfert-Rochereau;92100;Boulogne-Billancourt;Le Bleu
+540563;48.8491, 2.371086;Dimanche;2 Bd. de Picpus;75012;Paris;Iris Café
+540627;48.86797, 2.27538;Dimanche;8 Pl. de la Porte de Saint-Cloud;75016;Paris;Le Tabac du Terminus
+510010;48.913623, 2.292275;Dimanche;66 rue de la Sablière;92600;Asnières-sur-Seine;Le Balto
+510033;48.892534, 2.281958;Dimanche;26 rue Pierre Brossolette;92300;Levallois-Perret;Tabac du Parc
+510210;48.873091, 2.344131;Dimanche;165 rue du Fbg Poissonnière;75009;Paris;La Royale
+510317;48.877615, 2.312373;Dimanche;8 Av. de Wagram;75008;Paris;La Civette Wagram
+510473;48.877055, 2.249204;Dimanche;91 rue Perronet;92200;Neuilly-sur-Seine;La Royale
+510523;48.894782, 2.322923;Dimanche;161 rue Legendre;75017;Paris;Le Lutetia
+510558;48.884769, 2.335947;;16 rue de Clignancourt;75018;Paris;Tabac Royal Moulin
+520137;48.944878, 2.556817;Dimanche;10 Pl. de la Gare;93420;Villepinte;Café de La Gare
+520143;48.915483, 2.467763;Jeudi;135 Av. Henri Barbusse;93700;Drancy;Le Chiquito
+520203;48.909659, 2.434088;Dimanche;7 Pl. des Nations unies;93000;Bobigny;Tabac Presse Boutout
+520377;48.848197, 2.417737;Dimanche;102 Av. du Général de Gaulle;94160;Saint-Mandé;Les Incorruptibles
+520421;48.88079, 2.506624;Dimanche;16 Grande Rue;93250;Villemomble;Bar Monte Christo
+520474;48.880661, 2.377187;;3 rue Lassus;75019;Paris;Tabac La Gitane
+520490;48.880472, 2.488725;Lundi;0 2-4 rue du Général Gallieni;93110;Rosny-sous-Bois;Tabac de l'église
+520498;48.852471, 2.404497;;38 rue Levert;75020;Paris;Le Chiquito
+520578;48.8491, 2.371086;Dimanche;23 rue de Wattignies;75012;Paris;Le Disque Bleu
+530381;48.79913, 2.319124;Lundi;11BIS Av. Louis Pasteur;92220;Bagneux;Le Paris Rome
+530463;48.818497, 2.302658;;14 rue Gambetta;92240;Malakoff;Le Gambetta
+530465;48.839047, 2.332933;;36 rue Delambre;75014;Paris;Tabac Edgar Quinet
+530518;48.738695, 2.255537;Dimanche;18 Bis Bd Maréchal Juin;91370;Verrières-le-Buisson;Civette
+530543;48.771928, 2.380104;Dimanche;CCial rte du Luxembourg, Belle épine;94320;Thiais;Love Tabac
+530562;48.765389, 2.365802;Dimanche;2 Pl. Mar. de Lattre de Tassigny;94550;Chevilly-Larue;Mag Presse
+530589;48.721688, 2.285249;;1 Avenue de l'Europe- Ccial Cora;91300;Massy;Tabac Horizon 3000
+510484;48.819445, 2.247853;;76 rue Camille Desmoulins;92130;Issy-les-Moulineaux;Tabac - Presse
+510611;48.881508, 2.232296;Dimanche;1 rue Chantecoq;92800;Puteaux;La Coupole d' Argent
+510655;48.884769, 2.335947;Mardi;29 rue Tristan Tzara;75018;Paris;Cité de la Presse
+520147;48.928676, 2.527589;Dimanche;2 rue Pierre Brossolette;93270;Sevran;Rougemont Presse
+520228;48.949489, 2.66919;Lundi;74 rue Jean Jaurès;77410;Claye-Souilly;Espace Tabac
+520261;48.854294, 2.438276;Dimanche;294 rue de Rosny;93100;Montreuil;Les Copains
+520268;48.956737, 2.375803;Dimanche;95 Av. Jules Guesde;93240;Stains;Le Narval
+520416;48.837954, 2.472565;Lundi;56 rue des Héros Nogentais;94130;Nogent-sur-Marne;Tabac du Marché
+520495;48.872522, 2.373632;;125 Bd  de Magenta;75010;Paris;Le Balto
+520520;48.839613, 2.52861;Samedi;1 Pl. Daguerre;94360;Bry-sur-Marne;La Navette de Bry
+520631;48.8491, 2.371086;;157 rue de Charenton;75012;Paris;Le Triple 8
+530130;48.77925, 2.27773;Dimanche;0 1-3 Av. de la Division Leclerc;92290;Châtenay-Malabry;Tabac Ecole Centrale
+530233;48.780868, 2.525789;Dimanche;81-85 rte de Provins  C.C Pince Vent;94490;Ormesson-sur-Marne;Le Cigare- La Flamme
+530340;48.858354, 2.344695;;30 Q. du Louvre;75001;Paris;Le Corona
+530556;48.716083, 2.40649;;4 cour Joseph Dewalle;91200;Athis-Mons;Tabac le Plaisance
+530558;48.781734, 2.358716;Dimanche;36 rue Marcel Grosmenil;94800;villejuif;Le Royal
+540376;48.839047, 2.332933;;108 Bd du Montparnasse;75014;Paris;Tabac du Dôme
+540598;48.842339, 2.192614;Dimanche;2 Av. Joffre;92380;Garches;Les Maréchaux
+510487;48.827616, 2.242153;Dimanche;50 Av. Jean-Baptiste Clément;92100;Boulogne-Billancourt;Le Havane
+510505;48.869491, 2.223011;;2 rue Merlin de Thionville;92150;Suresnes;Tabac de la Gare
+510557;48.853806, 2.293985;;47 Bd de Grenelle;75015;Paris;La Gitane
+520104;48.85812, 2.512732;Dimanche;46 Av. du Mar. Foch;93360;Neuilly-Plaisance;Tabac de La Poste
+520542;48.90645, 2.496487;;132 Av. Aristide Briand;93320;Les Pavillons-sous-Bois;Tabac de L'église
+520610;48.86853, 2.419924;;199 rue Robespierre;93170;Bagnolet;Le Central
+520652;48.854294, 2.438276;;221 Bd Théophile Sueur;93100;Montreuil;Tabac de la Cité
+530061;48.8106, 2.414328;Dimanche;122 rue Edouard Vaillant;94140;Alfortville;Le Vaillant
+530096;48.839047, 2.332933;;66 rue Daguerre;75014;Paris;Le Naguère
+530200;48.831735, 2.367073;Dimanche;12 rue Neuve Tolbiac;75013;Paris;Korum-Café
+530383;48.849498, 2.347052;Dimanche;9 rue de Blainville;75005;Paris;Presse - Tabac
+530470;48.852773, 2.340696;Dimanche;20 rue Littré;75006;Paris;Tabac WEN
+530494;48.858354, 2.344695;;8 rue Saint Denis;75001;Paris;Le Tabac du Chatelet
+530499;48.819501, 2.322161;;18 Pl. Jean Jaures;92120;Montrouge;Le Rond Point
+530548;48.852773, 2.340696;;17 rue Dauphine;75006;Paris;Café Le Dauphine
+510051;48.880008, 2.203497;Dimanche;276 Av. Georges Clémenceau;92000;Nanterre;Le Clémenceau
+510265;48.926672, 2.261993;;44 Av. de Stalingrad;92700;Colombes;Aux Champarons
+510422;48.884769, 2.335947;;228 rue de Championnet;75018;Paris;Le Café du Quartie
+510423;48.853806, 2.293985;Dimanche;114 rue de la Convention;75015;Paris;Les Volutés
+510438;48.853806, 2.293985;Dimanche;114 rue de Sèvres;75015;Paris;Tabac de New Nesles
+510486;48.86797, 2.27538;;171 Av. de Versailles;75016;Paris;Le Royal Exelmans
+510584;48.90196, 2.299159;;128 Bd Jean Jaurès;92110;Clichy;Le Chiquito
+510586;48.908254, 2.251715;;2 rue Voltaire;92250;La Garenne-Colombes;Tabac du Marché
+510590;48.827616, 2.242153;Dimanche;0 106-107 rue du point du jour;92100;Boulogne-Billancourt;Toute la presse
+520013;48.860773, 2.385278;Dimanche;92 rue de la Roquette;75011;Paris;Madi's Sons
+520086;48.806631, 2.573339;Dimanche;38 Av. Ardouin;94420;Le Plessis-Trévise;Plessis Presse
+520195;48.8491, 2.371086;Dimanche;82 rue du faubourg saint-Antoine;75012;Paris;Le Rallye
+520326;48.855626, 2.357026;Dimanche;9 rue du Temple;75004;Paris;Le Troquet du Temple
+520436;48.843492, 2.505362;Mercredi;6 Pl. Robert Belvaux;94170;Le Perreux-sur-Marne;Tabac de La Gare
+520457;48.8491, 2.371086;;1 rue de Reuilly;75012;Paris;Le Virginie
+520545;48.93221, 2.405656;;1 rue Saint-Denis;93120;La Courneuve;Tabac des 6 Routes
+520576;48.837954, 2.472565;Lundi;186 Grande Rue Charles De Gaulle;94130;Nogent-Sur-Marne;Tabac Le Brazza
+520612;48.8491, 2.371086;;58 Av. Ledru Rollin;75012;Paris;Le Royal Tabac
+520654;48.860773, 2.385278;Dimanche;41 rue de la Roquette;75011;Paris;Tabac Roquette
+530322;48.849498, 2.347052;Dimanche;54 Bd Saint-Germain;75005;Paris;Tabac St-Germain
+530523;48.716083, 2.40649;Dimanche;1 rue des Froides Bouillies;91200;Athis-Mons;Le Noyer Renard
+530546;48.804137, 2.460826;Mardi;63 rue Chéret;94000;Créteil;Café du Bonheur
+530561;48.771928, 2.380104;;9 Pl. du Marché;94320;Thiais;Bar du Marché
+540265;48.880661, 2.377187;Dimanche;107 rue Manin;75019;Paris;Tabac Le Rallye
+540336;48.93221, 2.405656;Dimanche;2 Av. Jean Mermoz;93120;La Courneuve;Tabac Le Muratti
+540653;48.849498, 2.347052;Dimanche;14 Bd de L'Hopital;75005;Paris;Tabac de l'Arrivée
+510196;48.853806, 2.293985;Lundi;59 Bd Lefebvre;75015;Paris;Le Marigny
+510392;48.881508, 2.232296;Lundi;118 Av. du Président Wilson;92800;Puteaux;Le Montalegre
+510426;48.853806, 2.293985;Dimanche;1 rue Mademoiselle;75015;Paris;Le Celtic
+510565;48.877615, 2.312373;Samedi;46 rue de Laborde;75008;Paris;Tabac Haussmann
+510627;48.894782, 2.322923;;47 rue Jouffroy d'Abbans;75017;Paris;Le Jouffroy
+520363;48.893158, 2.412544;Mardi;3 rue Ste Marguerite;93500;Pantin;Le Flash
+520422;48.881093, 2.431978;Dimanche;1 Av. de Verdun;93230;Romainville;Le Carnot
+520441;48.880661, 2.377187;;98 rue de l'Ourcq;75019;Paris;Tabac de l'Ourcq
+520552;48.850727, 2.643369;Dimanche;23 rue de la Mogotte;77200;Torcy;Tabac du Clos
+520553;48.921989, 2.370849;;63 rue du Moutier;93300;Aubervilliers;Le Real
+520555;48.93221, 2.405656;Dimanche;39 Bd  Pasteur;93120;La Courneuve;Tabac le Jollois
+520586;48.872522, 2.373632;;262 rue du Faubourg St-Martin;75010;Paris;Vallée de Vinales
+530093;48.791424, 2.568071;Dimanche;CCial 14 Av. du Mar. Mortier;94510;La Queue-en-Brie;Aux livres Valentin
+530249;48.831735, 2.367073;Dimanche;34 rue de Tolbiac;75013;Paris;Tabac Tolbiac
+530455;48.856246, 2.323946;;74 rue de Sèvres;75007;Paris;Le Balto
+530487;48.816396, 2.384721;Dimanche;14 Av. de Verdun;94200;Ivry-sur-Seine;L'Escale
+530526;48.804137, 2.460826;Dimanche;65 Av. François Mitterrand;94000;Créteil;La Bonne Fortune
+530568;48.77925, 2.27773;;432 Av. de la Division Leclerc;92290;Châtenay-Malabry;Le Jean Nicot
+530569;48.714472, 2.363619;;7 Pl. Henri Barbusse;91550;Paray-Vieille-Poste;Café Hotel de Ville
+530570;48.816396, 2.384721;;82 Bd Paul Vaillant Couturier;94200;Ivry-sur-Seine;La Bonne Fortune
+540191;48.917975, 2.362521;;222 Av. du président Wilson;93210;La Plaine-Saint-Denis;Le Royal Club
+540200;48.877055, 2.249204;Dimanche;6 rue du Château;92200;Neuilly-sur-Seine;Le Brazza
+540570;48.864056, 2.355819;Dimanche;1 rue de Bretagne;75003;Paris;Le Progrès
+510050;48.842339, 2.192614;Dimanche;79 rue du 19 Janvier;92380;Garches;Tabac du Golf
+510350;48.913623, 2.292275;;110 rue des Bourguignons;92600;Asnières-sur-Seine;Le Cyrano
+510397;48.960601, 2.274468;Dimanche;155 Av. Maurice Utrillo;95100;Argenteuil;Les Jardinsde la Gar
+510518;48.852471, 2.404497;Dimanche;135 rue de Ménilmontant;75020;Paris;Le Réveil Matin
+510529;48.855626, 2.357026;Dimanche;53 rue Saint Paul;75004;Paris;La maison du Marais
+510540;48.819445, 2.247853;;19 rue Jean-Pierre Timbaud;92130;Issy-les-Moulineaux;Espace Tabac
+510559;48.877615, 2.312373;Dimanche;11 rue de Lisbonne;75008;Paris;Tabac de l'Europe
+510668;48.913623, 2.292275;Dimanche;31 rue d'Anjou;92600;Asnières-sur-Seine;Le Rapide
+520311;48.855626, 2.357026;;26 rue de Rivoli;75004;Paris;Tabac-Loto-Presse
+520481;48.860773, 2.385278;;16 rue du Faubourg du Temple;75011;Paris;L'Harmonie
+520546;48.851236, 2.450921;Jeudi;72 Bd  de Verdun;94120;Fontenay-sous-Bois;Tabac Le Verdun
+520549;48.818074, 2.541709;Lundi;18 rue Albert Thomas;94500;Champigny-sur-Marne;Tabac Au Scribe
+520564;48.889799, 2.465743;Dimanche;33 Av. Gallieni;93130;Noisy-le-Sec;Le Magnanou
+520592;48.855626, 2.357026;Lundi;25 rue de Turennes;75004;Paris;Tabac des Vosges
+520596;48.956737, 2.375803;Dimanche;80 Bd  Maxime Gorki;93240;Stains;Tabac Le Pomelo
+520601;48.880661, 2.377187;;84 rue Manin;75019;Paris;La Porte de Chaumont
+520602;48.8491, 2.371086;;49 Bd  de Reuilly;75012;Paris;Le Gavroche
+520647;48.86853, 2.419924;;83 rue Robespierre;93170;Bagnolet;Le Robespierre
+530329;48.856246, 2.323946;Dimanche;114 rue de Grenelle;75007;Paris;Tabac de la Mairie
+530594;48.765389, 2.365802;Dimanche;3 Av. de Lorraine;94550;Chevilly-Larue;Le Rond Point
+540188;48.913623, 2.292275;Dimanche;9 rue de la Station;92600;Asnières-sur-Seine;Au Havane
+540247;48.884769, 2.335947;Vendredi;79 Bd Ornano;75018;Paris;Le Clignancourt
+540315;48.915679, 2.481798;Lundi;7 Pl. Nicole Neuburger;93140;Bondy;Le Havan Cuir
+540316;48.941418, 2.440288;Lundi;27 Av. Pierre et Marie Curie;93150;Le Blanc-Mesnil;Le Globe
+510301;48.960601, 2.274468;;2 rue Henri Barbusse;95100;Argenteuil;Tabac de la Basiliqu
+510475;48.913623, 2.292275;Dimanche;35 rue de Chanzy;92600;Asnières-sur-Seine;Le Flachat
+510632;48.960601, 2.274468;Dimanche;CCial 25 Route d'Enghien;95100;Argenteuil;Mag Presse
+510670;48.853806, 2.293985;;355 rue de Vaugirard;75015;Paris;Tabac le Chamois
+520012;48.854294, 2.438276;Dimanche;76 rue de Rosny;93100;Montreuil;Librairie du Lycée
+520410;48.967657, 2.357364;Lundi;1 rue de Paris;93380;Pierrefitte-sur-Seine;Le Balto
+510341;48.884769, 2.335947;;63 rue Doudeauville;75018;Paris;Le Morzine
+510573;48.904633, 2.338298;Dimanche;1 rue Albert Dhalenne;93400;Saint-Ouen;Le Dôme
+510615;48.894782, 2.322923;;123 Bd Pereire;75017;Paris;Tabac Place Pereire
+510650;48.827616, 2.242153;;54 rue Marcel Bontemps;92100;Boulogne-Billancourt;Tabac - Presse
+510652;48.915494, 2.298299;;8 Av.de la Libération;92230;Gennevilliers;la Libération
+520015;48.843492, 2.505362;Dimanche;48 Bd de la Liberté;94170;Le Perreux-sur-Marne;Tabac de l‘Avenue
+520189;48.8491, 2.371086;Dimanche;51 Bd  Soult;75012;Paris;Le Résident
+520415;48.999638, 2.374782;Dimanche;15 rue Eric de Saint-Sauveur;95200;Sarcelles;Le Saint-Sauveur
+520528;48.843492, 2.505362;;20 Bd  d' Alsace-Lorraine;94170;Le Perreux-sur-Marne;Le Maryland
+520532;48.915679, 2.481798;;27 rue Etienne Dolet;93140;Bondy;Le Mistral
+520626;48.849498, 2.347052;;3 rue Lagrange;75005;Paris;Tabac Notre Dame
+530063;48.772566, 2.327217;Dimanche;3 rue Dispan;94240;L'Haÿ-les-Roses;Le Dispan
+530294;48.866625, 2.351731;Dimanche;95 rue Montmartre;75002;Paris;Le Café Frappé
+530364;48.693889, 2.34886;;111 Av. de la République;91600;Savigny-sur-Orge;L'Escale
+530492;48.721688, 2.285249;Dimanche;6 rue d'Alger;91300;Massy;Tabac du Languedoc
+530508;48.819501, 2.322161;Dimanche;101 Av. de la République;92120;Montrouge;Le Gaulois
+530573;48.80992, 2.335137;Dimanche;122 rue Marius Sidobre;94110;Arcueil;La Royale
+540044;48.860773, 2.385278;Dimanche;94 Av. Philippe Auguste;75011;Paris;L'Étoile D'Or
+540176;48.92996, 2.35306;Dimanche;3 Pl. Victor Hugo;93200;Saint-Denis;Le Khedive
+540455;48.86797, 2.27538;Dimanche;7 Av. Pierre 1er de Serbie;75016;Paris;Tabac des Musées
+510377;48.897048, 2.241683;Dimanche;5 rue de l'Abreuvoir;92400;Courbevoie;L'Atmosphère
+510396;48.853806, 2.293985;Dimanche;112 rue St-Charles;75015;Paris;Le Chiquito
+510427;48.960601, 2.274468;;156 Av. Jean Jaurès;95100;Argenteuil;La Tabatière
+510457;48.892534, 2.281958;Dimanche;120 rue Anatole France;92300;Levallois-Perret;Le Narval
+510489;48.904633, 2.338298;Dimanche;1 Bd Jean Jaurès;93400;Saint-Ouen;Le Landy
+510544;48.853806, 2.293985;Dimanche;177 rue de Vaugirard;75015;Paris;Tabac art et galerie
+510547;48.877055, 2.249204;Dimanche;204 Bd Bineau;92200;Neuilly-sur-Seine;Tabac BINEAU
+510566;48.86797, 2.27538;Dimanche;16 Av. du pdt Kennedy;75016;Paris;Kennedy Eiffel
+510572;48.853806, 2.293985;Dimanche;38 rue Paul Barruel;75015;Paris;Le Flash
+520237;48.8491, 2.371086;Dimanche;3 Bd  Soult;75012;Paris;La Civette Dorée
+520315;48.915483, 2.467763;Dimanche;97 rue Henri Langlois;93700;Drancy;Le Nemrod
+520527;48.92996, 2.35306;;2 rue Gaston Philippe;93200;Saint-Denis;Tabac-Presse
+520569;48.824282, 2.537435;;37 Av. Nelson Mandela;94350;Villiers-sur-Marne;Tabac du Parc
+520628;48.852471, 2.404497;;298 rue des Pyrénées;75020;Paris;Le Marigny
+520636;48.869408, 2.552452;;47 Av. Paul Doumer;93330;Neuilly-sur-Marne;Café Robin
+530084;48.773379, 2.486271;Dimanche;9 Pl. des Libertés;94380;Bonneuil-sur-Marne;Le Liberté
+530292;48.784344, 2.381742;Dimanche;17BIS Av. Maximilien Robespierre;94400;Vitry-sur-Seine;Maxi Tabac
+530341;48.804137, 2.460826;Dimanche;0 CCial Créteil Soleil Porte 23;94000;Créteil;Tabac Créteil Soleil
+530417;48.856246, 2.323946;;66 rue du Bac;75007;Paris;Tabac Bac St-Germain
+530516;48.716083, 2.40649;Dimanche;2 Pl. de l'Eglise;91200;Athis-Mons;Tabac de la Mairie
+530517;48.716083, 2.40649;;155 Av. de Morangis;91200;Athis-Mons;Le Jean Bart
+530578;48.690001, 2.317861;Lundi;90 rue François Mitterrand;91160;Longjumeau;Tabac du Pont
+540199;48.877055, 2.249204;Dimanche;133 Av. Achille Peretti;92200;Neuilly-sur-Seine;Kiosque de la Mairie
+540309;48.921989, 2.370849;;39 Av. de la République;93300;Aubervilliers;Le Celtique
+510073;48.881508, 2.232296;Dimanche;1 rue Fernand Pelloutier;92800;Puteaux;Tabac de la Gare
+510428;48.897048, 2.241683;Dimanche;165 Bd de Verdun;92400;Courbevoie;L'Européen
+510455;48.892534, 2.281958;Dimanche;3 Pl. de la Libération;92300;Levallois-Perret;Le Rallye Villiers
+510471;48.853806, 2.293985;;62 rue Saint-Lambert;75015;Paris;Le P'ti Bistrot
+510580;48.881508, 2.232296;Samedi;33 rue Jean Jaurès;92800;Puteaux;L'Orangerie
+510612;48.913623, 2.292275;Dimanche;11 AV. d' Argenteuil;92600;Asnières-sur-Seine;Le Saint Claude
+520472;48.880661, 2.377187;Dimanche;103 Av. Simon Bolivar;75019;Paris;Le Navigateur
+520537;48.8491, 2.371086;;116 Cour de Vincennes;75012;Paris;Tabac Le Reinit
+520642;48.8491, 2.371086;;96 Bd  Diderot;75012;Paris;Le Totem
+530157;48.831735, 2.367073;Dimanche;35 Av.de la Porte de Choisy;75013;Paris;Tabac des Sports
+530198;48.831735, 2.367073;Dimanche;96 Bd Massena;75013;Paris;La Page Massena
+530210;48.768228, 2.31095;Dimanche;135 Av. de la Division Leclerc;92160;Antony;Le Fontenoy
+530357;48.856246, 2.323946;;22 Av. de la Bourdonnais;75007;Paris;Tabac Eiffel
+530419;48.831735, 2.367073;Mercredi;66 Av. d'Ivry;75013;Paris;Tabac des Olympiades
+530451;48.839047, 2.332933;Dimanche;207 rue Raymond Losserand;75014;Paris;Café le Renoir
+530472;48.738695, 2.255537;Lundi;120 rue d'Estienne d'Orves;91370;Verrières-le-Buisson;La Concorde
+530557;48.816396, 2.384721;Dimanche;125 Bd Paul Vaillant Couturier;94200;Ivry-sur-Seine;Le Mokaffé
+530559;48.784344, 2.381742;;33 Av. Eva Salmon;94400;Vitry-sur-Seine;Tabac Le France
+540361;48.839047, 2.332933;Dimanche;80 rue de l'Am. Mouchez;75014;Paris;La Royale
+540440;48.86797, 2.27538;Dimanche;75 rue d'Auteuil;75016;Paris;Moulin d' Auteuil
+540669;48.849498, 2.347052;;3 Bd Saint-Michel;75005;Paris;La Fontaine St Miche
+510152;48.77766, 2.268352;Dimanche;15 Av. Charles de Gaulle;92350;Le Plessis-Robinson;Mag Presse
+510545;48.869491, 2.223011;;1 rue de la Poterie;92150;Suresnes;Le Valerien
+510634;48.86797, 2.27538;;57 Av. Mozart;75016;Paris;La Parisienne
+520451;48.860773, 2.385278;;38 Bd  Beaumarchais;75011;Paris;La Petite Etincelle
+520584;48.818074, 2.541709;Dimanche;4 rue Louis Talamoni;94500;Champigny-sur-Marne;Tabac de la Mairie
+530117;48.819501, 2.322161;Dimanche;79 Av.de la République;92120;Montrouge;Librairie du Centre
+530261;48.690001, 2.317861;Dimanche;163 rue du Pdt François Mitterrand;91160;Longjumeau;Tabac des Arcades
+530332;48.804137, 2.460826;Lundi;3 rue Paul-François Avet;94000;Créteil;Tabac Le Village
+530415;48.771928, 2.380104;Dimanche;0 CCAL  Belle Epine;94320;Thiais;Emy Café
+530464;48.819501, 2.322161;Dimanche;63 Av. Aristide Briand;92120;Montrouge;La Divette
+530566;48.752575, 2.419658;Dimanche;58 Bd de Stalingrad;94600;Choisy-le-Roi;Le Stalingrad
+540134;48.813513, 2.449794;Dimanche;56 Av. Georges Clemenceau;94700;Maisons-Alfort;Tabac du Marché
+540234;48.884769, 2.335947;;25 Bd  Ornano;75018;Paris;Le Flash
+540260;48.880661, 2.377187;Dimanche;36 Av. Simon Bolivar;75019;Paris;Tabac Presse
+540358;48.852773, 2.340696;Dimanche;78 rue de Seine;75006;Paris;Tabac-Presse-Loto
+540473;48.877615, 2.312373;Dimanche;5 rue de Vienne;75008;Paris;Le Mont Vallon
+510244;48.778134, 2.236447;;251 Av. Jean Jaurès;92140;Clamart;Au Départ
+510453;48.91352, 2.267197;Dimanche;11 rue d'Estienne d'Orves;92270;Bois-Colombes;Le Jean Bart
+510530;48.853806, 2.293985;;125 rue Cambronne;75015;Paris;Les Favorites
+510657;48.869491, 2.223011;;5 rue des Bas Rogers;92150;Suresnes;Le Chiquito
+520248;48.852471, 2.404497;Dimanche;136 rue des Couronnes;75020;Paris;Le Voltigeur
+520333;48.880661, 2.377187;Dimanche;100 Bd de la Villette;75019;Paris;Le Narval
+520341;48.850335, 2.446414;Dimanche;140 rue de la Jarry;94300;Vincennes;Le Royal
+520367;48.850335, 2.446414;Dimanche;153 rue Defrance;94300;Vincennes;Tabac des Rigollots
+520392;48.893158, 2.412544;Dimanche;54 Av. Jean Lolive;93500;Pantin;Le Saint-Claude
+520507;48.880661, 2.377187;;15/17 rue Henri Ribière;75019;Paris;Village des Fêtes
+520587;48.8491, 2.371086;;2 rue de Lyon;75012;Paris;Le Murattis
+520598;48.854294, 2.438276;;176 Av. du Président Wilson;93100;Montreuil;Le Wilson
+520657;48.8491, 2.371086;;113 rue de Charenton;75012;Paris;Dido Café
+530264;48.781122, 2.29044;;5 rue du Docteur Roux;92330;Sceaux;Le Patio
+530390;48.849498, 2.347052;Dimanche;41-43 rue Linné;75005;Paris;Le Saint Mandé
+530407;48.772566, 2.327217;;106 108 rue de Bicêtre;94240;L'Haÿ-les-Roses;Tabac des Roses
+530457;48.839047, 2.332933;;134 Av. du Général Leclerc;75014;Paris;Tabac Pte d'Orléans
+530473;48.816396, 2.384721;;75 rue Maurice Thorez;94200;Ivry-sur-Seine;Le Vieux Moulin
+530478;48.752575, 2.419658;;7 Av. Jean Jaures;94600;Choisy-le-Roi;Le rouget de l'isle
+530497;48.839047, 2.332933;;31 rue Bézout;75014;Paris;La Table de Bézout
+530502;48.818497, 2.302658;;4 Av. Jules Ferry;92240;Malakoff;Couleurs
+530510;48.752575, 2.419658;;36 rue Georges Clémenceau;94600;Choisy-le-Roi;Le Clémenceau
+530533;48.751833, 2.32521;Dimanche;9 Pl. de l' Eglise;94260;Fresnes;Tabac Presse Eglise
+530538;48.818497, 2.302658;Dimanche;21Ter Bd de Stalingrad;92240;Malakoff;Le Montana
+520554;48.953432, 2.419177;;224 Av. du 8 mai 1945;93440;Dugny;Le Terminus
+520651;48.855626, 2.357026;Lundi;4 rue de la Bastille;75004;Paris;La Civette Bastille
+530194;48.831735, 2.367073;Dimanche;124 rue de Tolbiac;75013;Paris;La Bouffarde
+530278;48.808009, 2.281393;Dimanche;102 Av. de Paris;92320;Châtillon;Au Fil des Jours
+530350;48.819501, 2.322161;;130 Av. Aristide Briand;92120;Montrouge;Le Carvès
+530433;48.693889, 2.34886;Dimanche;3 Pl.  de la Gare;91600;Savigny-sur-Orge;Tabac de la Gare
+530456;48.849498, 2.347052;;80 Bd Port-Royal;75005;Paris;Espace Tabac
+530584;48.808009, 2.281393;;60 Av. de Paris;92320;Châtillon;Le Monde en Marche
+530593;48.737834, 2.398297;;7 Pl. du 8 Mai 1945;94310;Orly;Tabac de La Gare
+540486;48.853806, 2.293985;Dimanche;45BIS rue de Vouillé;75015;Paris;Press'tation
+510312;48.827616, 2.242153;;2 Rond Point Rhin et Danube;92100;Boulogne-Billancourt;Presse
+510669;48.877055, 2.249204;;105 Av. Charles de Gaulle;92200;Neuilly-sur-Seine;Civette de Neuilly
+520351;48.964359, 2.882846;Lundi;36 rue du Grand Cerf;77100;Meaux;Le Malakoff
+520562;48.860773, 2.385278;Dimanche;10 rue Jean-Pierre Timbaud;75011;Paris;Tabac l' Estaminet
+520588;48.956737, 2.375803;;1 rue Carnot;93240;Stains;Tabac de la Mairie
+520608;48.855626, 2.357026;;42 Bd Henri IV;75004;Paris;Le week-end
+520613;48.38418, 2.229898;Dimanche;10 Av. du Val de Fontenay;91150;Fontenay-sous-Bois;Tabac Le Val
+530256;48.866625, 2.351731;;46 rue des Petits-Champs;75002;Paris;Le Ventadour
+530310;48.804452, 2.351878;Samedi;28 Av. Eugène Thomas;94270;Le Kremlin-Bicêtre;Tabac Brazza
+530356;48.714472, 2.363619;;19-21 Bd de Fontainebleau;91550;Paray-Vieille-Poste;Le Concorde
+530483;48.849498, 2.347052;;137 Bd St-Michel;75005;Paris;Civette St Michel
+530551;48.831735, 2.367073;;89 rue de la Glacière;75013;Paris;Tabac de la Glacière
+540002;48.850335, 2.446414;Mercredi;170 Av. de Paris;94300;Vincennes;Tabac de la Tourelle
+510011;48.892534, 2.281958;Samedi;117 rue Victor Hugo;92300;Levallois-Perret;Le Tom Tip
+510079;48.875598, 2.194162;Dimanche;103 Av. Paul Doumer;92500;Rueil-Malmaison;Le Tabalire
+510268;48.853806, 2.293985;Dimanche;60 rue du Théâtre;75015;Paris;Le Disque Bleu
+510485;48.842339, 2.192614;Dimanche;4 rue Athime Rué;92380;Garches;Les Arcades
+510537;48.875598, 2.194162;;67 Av. du 18 Juin 1940;92500;Rueil-Malmaison;Tabac Beauregard
+510553;48.875598, 2.194162;Dimanche;115 Av. Albert 1er;92500;Rueil-Malmaison;Le Napoléon 1er
+510599;48.927283, 2.19863;;33 Bd Henri Barbusse;78800;Houilles;Tabac des Blanches
+510622;48.884769, 2.335947;;104 Av. de Saint-Ouen;75018;Paris;Le Celtic
+510635;48.926672, 2.261993;Dimanche;16 Bd de Finlande;92700;Colombes;Le Chiquito
+520346;48.909659, 2.434088;;63 Av. Louis Aragon;93000;Bobigny;Le Belwo
+520401;48.909659, 2.434088;Dimanche;90 Bd  Maurice Thorez;93000;Bobigny;Civette de Bobigny
+520455;48.915483, 2.467763;Dimanche;1 Bd  Paul Vaillant Couturier;93700;Drancy;Le Celtique
+520605;48.86853, 2.419924;Dimanche;24 rue Girardot;93170;Bagnolet;Le Shelby
+520606;48.854294, 2.438276;Dimanche;246 Bd  Aristide Briand;93100;Montreuil;Le Dragon de Havane
+520650;48.85812, 2.512732;;13 Bd  Gallieni;93360;Neuilly-Plaisance;Le Grand Paris
+530285;48.839047, 2.332933;;81 rue de la Tombe Issoire;75014;Paris;Le Rallye
+530315;48.779411, 2.318471;;56 Av. du Gén Leclerc;92340;Bourg-la-Reine;Le Commerce
+530385;48.771928, 2.380104;Dimanche;148 Av. Mar. de Lattre de Tassigny;94320;Thiais;Les Tilleuls
+530506;48.831735, 2.367073;;45 Av. d' Italie;75013;Paris;Le Tabaclub
+530547;48.801869, 2.475841;Dimanche;9 rue Bobillot;94100;Saint-Maur-des-Fossés;Tabac du Marché
+530581;48.721688, 2.285249;Mercredi;48 rue Gabriel Péri;91300;Massy;Royal Massy
+510182;48.853806, 2.293985;Dimanche;20 rue Cauchy;75015;Paris;Le Comptoir du Parc
+510251;48.875598, 2.194162;Jeudi;92 rue Danton;92500;Rueil-Malmaison;Le Marigny
+510299;48.904633, 2.338298;Dimanche;169 rue du Dr Bauer;93400;Saint-Ouen;Le Sénioritas
+510477;48.913623, 2.292275;Dimanche;1 Pl. des Victoires;92600;Asnières-sur-Seine;Tabac des Victoires
+510479;48.884769, 2.335947;;79 Bd Barbes;75018;Paris;Le Rallye
+510638;48.880008, 2.203497;;27 rue de la Paix;92000;Nanterre;La Cave à Cigares
+520164;48.999638, 2.374782;Dimanche;3 Pl. Bloch Lainé;95200;Sarcelles;Le Bloch Lainé
+520565;48.880472, 2.488725;Dimanche;31 rue Philibert Hoffmann;93110;Rosny-sous-Bois;La Tabatière
+520622;48.842835, 2.570692;Mardi;15 rue du Marché;93160;Noisy-le-Grand;Tabac du Marché
+520644;48.842835, 2.570692;;140 rue Pierre Brossolette;93160;Noisy-le-Grand;Le Brazza
+530152;48.831735, 2.367073;Dimanche;156 rue de Tolbiac;75013;Paris;Tabac - Presse
+530448;48.849498, 2.347052;Dimanche;66 rue Claude Bernard;75005;Paris;Les Oliviers
+530466;48.831735, 2.367073;Dimanche;27 Av. des Gobelins;75013;Paris;Le Tabarium
+530490;48.773379, 2.486271;;5 rue d' Estienne d' Orves;94380;Bonneuil-sur-Marne;Café de la Mairie
+530542;48.866625, 2.351731;Dimanche;22 rue de Turbigo;75002;Paris;Le velocivette
+530544;48.831735, 2.367073;Dimanche;56 Av. des Gobelins;75013;Paris;Le Naja
+540061;48.860773, 2.385278;Dimanche;17 Av. Parmentier;75011;Paris;Le Royal Parmentier
+540297;48.873091, 2.344131;;4 Pl. de Clichy;75009;Paris;La Havane
+540310;48.884769, 2.335947;Dimanche;18 rue du Poteau;75018;Paris;Le Reinitas
+510245;48.873091, 2.344131;Dimanche;34 rue la Bruyère;75009;Paris;Tabac de Pigalle
+510433;48.877055, 2.249204;Dimanche;23 rue de Villiers;92200;Neuilly-sur-Seine;Le Maryland
+510516;48.897048, 2.241683;Dimanche;3 rue Baudin  C.Cial Charas;92400;Courbevoie;Havannah Stock
+510560;48.827616, 2.242153;Samedi;23 Pl. Marcel Pagnol;92100;Boulogne-Billancourt;Du Point du Jour
+510600;48.884769, 2.335947;;50 rue Marx Dormoy;75018;Paris;Tabac La Comète
+510623;48.844596, 2.219476;Dimanche;1 Pl. Magenta;92210;Saint-Cloud;Le Magenta
+510649;48.869491, 2.223011;Dimanche;97 rue de Verdun;92150;Suresnes;Le Mousquetaire
+510653;48.894782, 2.322923;;24 Pl. Charles Fillion;75017;Paris;Tab'shop Batignolles
+510663;48.908254, 2.251715;;4 Pl des champs Philippe;92250;La Garenne-Colombes;des Champs Philippe
+520540;48.90645, 2.496487;Dimanche;116 Av. Jean Jaurès;93320;Les Pavillons-sous-Bois;Civette de Pavillons
+530454;48.823588, 2.415928;Dimanche;3 Pl. des Marseillais CCAL;94220;Charenton-le-Pont;Civette de la coupol
+530460;48.864056, 2.355819;Dimanche;59 rue de Turbigo;75003;Paris;Le Week End
+530582;48.781734, 2.358716;Dimanche;77 rue Jean Jaures;94800;Villejuif;Le Rallye
+540491;48.856246, 2.323946;Dimanche;53 Av. de Ségur;75007;Paris;Aux Ministères
+540506;48.853806, 2.293985;Dimanche;252 rue de la Convention;75015;Paris;Le Diplomate
+510570;48.827616, 2.242153;;27 Av. Jean Baptiste Clément;92100;Boulogne-Billancourt;Le Lutecia
+510643;48.827616, 2.242153;;63 Bd de la République;92100;Boulogne-Billancourt;Tabac République
+510660;48.90196, 2.299159;Dimanche;5 rue du Landy;92110;Clichy;Bar le Rallye
+520056;48.88236, 2.620064;Dimanche;CCial Route de Montfermeil;77500;Chelles;Le Papyrus
+520522;48.8491, 2.371086;;25 rue du Rendez-vous;75012;Paris;Tabac de la Poste
+530186;48.831735, 2.367073;Lundi;82 Bd Masséna;75013;Paris;L'Arche 13
+530192;48.831735, 2.367073;Dimanche;85 Bd. Auguste Blanqui;75013;Paris;Librairie Blanqui 13
+530306;48.866625, 2.351731;;102 rue Montorgueil;75002;Paris;Le Havane
+530534;48.693889, 2.34886;;193 Bd  Aristide Briand;91600;Savigny-sur-Orge;Le Bardy
+530537;48.819501, 2.322161;Dimanche;127 bis Av. Verdier;92120;Montrouge;Le Verdon
+540046;48.848197, 2.417737;Dimanche;7 Pl. Charles Digeon;94160;Saint-Mandé;Le Fontenoy St Mandé
+540085;48.768228, 2.31095;Dimanche;71 Av. Aristide Briand;92160;Antony;Tabac - Presse
+510290;48.86797, 2.27538;Dimanche;63 Av. de la Grande Armée;75016;Paris;Le Balto
+510601;48.853806, 2.293985;;55-57 Av. de la Motte Picquet;75015;Paris;La Carotte Motte Piq
+520309;48.88236, 2.620064;Mercredi;2 Av. du Mar. Foch;77500;Chelles;Tabac de la Gare
+520423;48.852471, 2.404497;;108 Av.Gambetta;75020;Paris;Le Saint-Fargeau
+520496;48.909659, 2.434088;;25 Av. Édouard Vaillant;93000;Bobigny;Le Bel Air
+520558;48.860773, 2.385278;;17 rue Pétion;75011;Paris;Tabac Le Jean Bart
+520580;48.880661, 2.377187;Mercredi;127 Av. Jean Jaures;75019;Paris;Tabac La Lorraine
+530051;48.772566, 2.327217;Dimanche;17 rue Jean Jaurès;94240;L'Haÿ-les-Roses;Studio-Presse
+530271;48.818497, 2.302658;;127 rue Paul Vaillant-Couturier;92240;Malakoff;Le Tom Tip
+530320;48.823588, 2.415928;Dimanche;79 rue de Paris;94220;Charenton-le-Pont;Tabac des Ecoles
+530524;48.856246, 2.323946;;20 Av. Bosquet;75007;Paris;Tabac Cave à Cigare
+530591;48.693889, 2.34886;Dimanche;35 Bd. Aristide Briand;91600;Savigny-sur-Orge;Le Nemrod
+540008;48.854294, 2.438276;;64 Bd Rouget de L'Isle;93100;Montreuil;Le Saint-Laurent
+510330;48.86797, 2.27538;Dimanche;66 rue de la Pompe;75016;Paris;Tabac de la Mairie
+510421;48.91352, 2.267197;;139 rue Victor Hugo;92270;Bois-Colombes;Le Maryland
+510466;48.824202, 2.220115;;22 Av. de l'Europe;92310;Sèvres;L'Européen
+510497;48.877615, 2.312373;;28 rue de la Pépinière;75008;Paris;Le Pot à Tabac
+510546;48.90196, 2.299159;Dimanche;33 rue  Villeneuve;92110;Clichy;Le Celtique
+510603;48.897048, 2.241683;;42 Bd de Verdun;92400;Courbevoie;Le Saint-Claude
+520063;48.892324, 2.540729;Mercredi;2 rue Joannes;93220;Gagny;Tabac de L'Époque
+520215;48.780426, 2.603817;Dimanche;2 Pl. Auribault;77340;Pontault-Combault;Tabac de la Gare
+520303;48.935736, 2.426595;Dimanche;15 rue Étienne Dolet;93350;Le Bourget;Civette du Bourget
+520424;48.8491, 2.371086;Lundi;101 rue Claude Decaen;75012;Paris;Le Saint-Claude
+520448;48.909659, 2.434088;;7 rue de Paris;93000;Bobigny;La Source
+520459;48.920796, 2.483518;Dimanche;CCial Parinor-le haut de Gally;93600;Aulnay-sous-Bois;Tabac Kas
+520571;48.921914, 2.539255;Dimanche;4 Bd  de Chanzy;93190;Livry-Gargan;La Civette de Chanzy
+530504;48.856246, 2.323946;;14 Av. de Tourville;75007;Paris;Tabac Le Lutécia
+530511;48.784344, 2.381742;Lundi;110 Av. du Colonel Fabien;94400;Vitry-sur-Seine;Le Gitane
+540308;48.884769, 2.335947;;188 rue Ordener;75018;Paris;La Renaissance
+510491;48.855591, 2.133555;;4 Quai Georges Clémenceau;78380;Bougival;Le Clémenceau
+510500;48.881508, 2.232296;Dimanche;81 Av du Gén. de Gaulle;92800;Puteaux;Le Totem
+510508;48.913623, 2.292275;Dimanche;22 Bd Voltaire;92600;Asnières-sur-Seine;Le Voltaire
+510595;48.892534, 2.281958;Lundi;12 rue Trébois;92300;Levallois-Perret;Le Presse Book
+520233;48.852471, 2.404497;Dimanche;269 rue des Pyrénées;75020;Paris;Le Capitole
+520349;48.872522, 2.373632;Dimanche;156 rue La Fayette;75010;Paris;Le Lutétia
+520359;48.920796, 2.483518;;6 rue Léon;93600;Aulnay-sous-Bois;Presse du Quartier
+520389;48.852471, 2.404497;Dimanche;3 rue de Bagnolet;75020;Paris;Le Saint-Claude
+520407;48.852471, 2.404497;Lundi;113 rue des Pyrénées;75020;Paris;L'Aubisque
+520429;48.860773, 2.385278;;109 rue de Charonne;75011;Paris;Le Normandie
+520468;48.880661, 2.377187;;9 Av. Secrétan;75019;Paris;Le Calumet
+520607;48.921989, 2.370849;;93 Av. de la République;93300;Aubervilliers;Le Madison
+530305;48.849498, 2.347052;Dimanche;123 rue Monge;75005;Paris;Le Rond-Point
+530384;48.831735, 2.367073;Dimanche;137 Bd Auguste Blanqui;75013;Paris;Maison de la Presse
+530396;48.804137, 2.460826;;8 Bd Montaigut;94000;Créteil;Tabac - Presse
+530449;48.822205, 2.421542;;264 rue du Mar. Leclerc;94410;Saint-Maurice;Café du Centre
+530528;48.839047, 2.332933;Dimanche;141 rue Raymond Losserand;75014;Paris;La Civette 14
+540257;48.880661, 2.377187;Dimanche;212 Av. Jean Jaurès;75019;Paris;Tabac L'Horloge
+510075;48.875598, 2.194162;Dimanche;4 All. de L'Hôtel de Ville;92500;Rueil-Malmaison;Le Tobacco
+510376;48.86797, 2.27538;Dimanche;37 rue Chanez;75016;Paris;La Civette d'Auteuil
+510402;48.869491, 2.223011;;100 rue de la Liberté;92150;Suresnes;Le Charles X
+510532;48.827616, 2.242153;Dimanche;127 bd Jean Jaurès;92100;Boulogne-Billancourt;Le Lutétia
+510549;48.790711, 2.221407;Dimanche;29 Av. du Général de Gaulle;92360;Meudon-la-Forêt;Tabac Le Joli Mai
+510552;48.824202, 2.220115;;21  Grande Rue;92310;Sèvres;La Belle Polle
+520329;48.999638, 2.374782;;5 Av. du 8 mai 1945;95200;Sarcelles;La Régence
+520399;48.967657, 2.357364;Dimanche;203 Av. Elisée Reclus;93380;Pierrefitte-sur-Seine;Le Ninos
+520443;48.92996, 2.35306;Dimanche;149 rue Gabriel Péri;93200;Saint-Denis;Le Tabac du Barrage
+520563;48.852471, 2.404497;Dimanche;3 Pl. Auguste Metivier;75020;Paris;Café Tabac leTiercé
+530219;48.751833, 2.32521;Jeudi;5 All. des Fleurs;94260;Fresnes;La Cerisaie
+530509;48.831735, 2.367073;Dimanche;20 Bd Arago;75013;Paris;Tabac Le Marijan
+510015;48.90196, 2.299159;Dimanche;7 Bd Jean Jaurès;92110;Clichy;Le Maryland
+510393;48.915494, 2.298299;;60 rue Pierre Timbaud;92230;Gennevilliers;Le Diplomate
+510480;48.884769, 2.335947;Dimanche;4 Pl. Jacques Froment;75018;Paris;Le Terminus
+510512;48.894782, 2.322923;;17 rue des Dames;75017;Paris;Le Narval
+510541;48.86797, 2.27538;;4 rue Benjamin Franklin;75016;Paris;Tabac Franklin
+510605;48.884769, 2.335947;;6 rue Ordener;75018;Paris;Le Flash
+510656;48.790711, 2.221407;;19 Av. du Maréchal Leclerc;92360;Meudon-la-Forêt;Tabac du Parc
+520028;48.860023, 2.57571;Dimanche;2 Av. Paul Doumer;93460;Gournay-sur-Marne;Tabac de L'Église
+520273;48.88236, 2.620064;;95 Av. des Sciences;77500;Chelles;L'Ecu de France
+520425;48.860773, 2.385278;Dimanche;36 rue Oberkampf;75011;Paris;Le Lutecia
+520641;48.8491, 2.371086;Dimanche;242 Av. Daumesnil;75012;Paris;La Civette Daumesnil
+530206;48.849498, 2.347052;Dimanche;40 rue Monge;75005;Paris;Tabac Alfa
+530241;48.8106, 2.414328;;123 rue Paul Vaillant-Couturier;94140;Alfortville;Le Perroquet Vert
+540192;48.877055, 2.249204;Dimanche;91 Av. du Roule;92200;Neuilly-sur-Seine;Le Winston
+540232;48.884769, 2.335947;Dimanche;65 rue Caulaincourt;75018;Paris;Cépage Montmartrois
+540496;48.877615, 2.312373;Dimanche;45 rue d'Amsterdam;75008;Paris;Le Liège
+540548;48.8491, 2.371086;;4 Pas. Saint-Emilion;75012;Paris;La Civette de Bercy
+510276;48.819445, 2.247853;Dimanche;68 R.du Gouverneur Général Eboué;92130;Issy-les-Moulineaux;Tabac du Centre
+510329;48.894782, 2.322923;Lundi;53 rue de Tocqueville;75017;Paris;Le Brazza
+510550;48.897048, 2.241683;;35 rue Jean Pierre Timbaud;92400;Courbevoie;Le Flash
+510551;48.892534, 2.281958;Dimanche;34 rue Rivay;92300;Levallois-Perret;Le café des Sports
+510576;48.86797, 2.27538;;96 rue Raynouard;75016;Paris;Tabac Jeux
+510589;48.894782, 2.322923;;29 rue Brochant;75017;Paris;Le Rallye
+520278;48.8491, 2.371086;Dimanche;21 Av. Ledru-Rollin;75012;Paris;Café de la Seine
+520345;48.854294, 2.438276;;175 Bd de la Boissière;93100;Montreuil;Le Celtique
+520383;48.775043, 2.68431;Dimanche;3 Pl. Roger Nicolas;77330;Ozoir-la-Ferrière;Tabac de la Gare
+520653;48.872522, 2.373632;Dimanche;7 rue Beaurepaire;75010;Paris;La Barrique
+530156;48.858354, 2.344695;Dimanche;10 rue des Halles;75001;Paris;Et Cetera
+530303;48.839047, 2.332933;Dimanche;49 rue de la Gaîté;75014;Paris;Tabac de la Gaïté
+530428;48.839047, 2.332933;;36-38 rue des Plantes;75014;Paris;Tabac des Plantes
+530527;48.818497, 2.302658;;2 Bd du Col. Fabien;92240;Malakoff;Tabac du Clos
+530530;48.839047, 2.332933;;177 Bd Brune;75014;Paris;La Bouffarde
+540144;48.837954, 2.472565;Dimanche;7 Bd de Strasbourg;94130;Nogent-sur-Marne;Le Watteau
+540180;48.956737, 2.375803;Lundi;107 Av. de Stalingrad;93240;Stains;Civette du Globe
+540402;48.818497, 2.302658;Dimanche;59 Av. Pierre Larousse;92240;Malakoff;Librairie Malakoff
+510501;48.86797, 2.27538;;64 rue Michel Ange;75016;Paris;Tabac de l'empire
+510610;48.884769, 2.335947;;62 rue Damrémont;75018;Paris;La Civette des Arts
+510639;48.86797, 2.27538;Dimanche;30 rue Greuze;75016;Paris;Tabac des Sablons
+520321;48.909659, 2.434088;Lundi;38 Chemin de Groslay;93000;Bobigny;Le Bar des Amis
+520504;48.936029, 2.339069;;2 R.Mechin;93450;L'Île-Saint-Denis;Tabac de la Mairie
+520505;48.901601, 2.519572;Lundi;8 Pl. du Général de Gaulle;93340;Le Raincy;La Civette du Raincy
+520614;48.852471, 2.404497;;108 Bd Davout;75020;Paris;La Civette Davout
+530228;48.839047, 2.332933;Dimanche;220 Av. du Maine;75014;Paris;La Civette d'Alésia
+530313;48.801869, 2.475841;Dimanche;90 rue Garibaldi;94100;Saint-Maur-des-Fossés;Le Kennedy
+530317;48.784344, 2.381742;Dimanche;34 Av. Youri Gagarine - C.Cial;94400;Vitry-sur-Seine;Clair de Plume
+530319;48.856246, 2.323946;Dimanche;151 rue de l'Université;75007;Paris;Café de l'Université
+530342;48.831735, 2.367073;;93 rue Pascal;75013;Paris;Le Café Noisette
+530421;48.702005, 2.321789;;1 Pl. de la Libération -CCAL;91380;Chilly-Mazarin;Tabac - Presse
+530515;48.831735, 2.367073;;30 Av. d' Italie;75013;Paris;La Tabacase
+530575;48.781734, 2.358716;;8 Avenue Louis Aragon;94800;Villejuif;Brasserie Aragon
+540053;48.852471, 2.404497;Dimanche;45 rue Saint-Blaise;75020;Paris;L‘obelisque
+520550;48.921989, 2.370849;;129 Av. Jean Jaurès;93300;Aubervilliers;Tabac Le Beau Relais
+520595;48.864056, 2.355819;Dimanche;58 rue Beaubourg;75003;Paris;Le Brelan
+520617;48.8491, 2.371086;;76 Bd  Soult;75012;Paris;Tabac Soult
+520637;48.864056, 2.355819;;5 Bd de Saint-Denis;75003;Paris;La Violette
+520649;48.855626, 2.357026;Dimanche;6 rue Saint-Martin;75004;Paris;Le Victoria
+530318;48.8106, 2.414328;;48 rue Etienne Dolet;94140;Alfortville;Le Tom Tip
+530438;48.784344, 2.381742;;59 Bd de Stalingrad;94400;Vitry-sur-Seine;Tabac de l'Empire
+540593;48.80992, 2.335137;Dimanche;20 rue Émile Raspail;94110;Arcueil;Au Bon Tabac
+540626;48.819205, 2.287589;Dimanche;83 Av. Victor Hugo;92170;Vanves;Au Soleil Levant
+510318;48.960601, 2.274468;;6 Pl. du 11 Novembre;95100;Argenteuil;Le Gaulois
+510324;48.894782, 2.322923;Dimanche;118 Bd  Berthier;75017;Paris;Le Voltigeur
+510356;48.892534, 2.281958;Mercredi;31 rue Carnot;92300;Levallois-Perret;Tabac du Marché
+510538;48.894782, 2.322923;Dimanche;145 Av. de Villiers;75017;Paris;Le Calumet
+510661;48.869491, 2.223011;;45 rue des Chênes;92150;Suresnes;Tabac des Chênes
+510671;48.960601, 2.274468;;61 rue Paul Vaillant Couturier;95100;Argenteuil;La Divette
+520016;48.839613, 2.52861;Dimanche;41 Bd  Gallieni;94360;Bry-sur-Marne;Totem
+520122;48.928676, 2.527589;Mercredi;38 rue d'Aulnay;93270;Sevran;L‘Imperial
+520144;48.903216, 2.576477;Dimanche;186 Av. Jean Jaurès;93370;Montfermeil;Civette des 7 Iles
+520266;48.880661, 2.377187;Dimanche;38 rue de Joinville;75019;Paris;Le Cadre Noir
+520444;48.860773, 2.385278;Dimanche;111 Av. Ledru Rollin;75011;Paris;Le Marceau
+520445;48.8491, 2.371086;Dimanche;82 Av. de St Mandé;75012;Paris;Le St-Mandé
+520570;48.92996, 2.35306;Dimanche;44 Bd  Jules Guesde;93200;Saint-Denis;Bar Tabac Le Balto
+520599;48.86853, 2.419924;Dimanche;2 rue Raoul Berton;93170;Bagnolet;Tbc L'Hotel de Ville
+520604;48.880661, 2.377187;;52 rue des Alouettes;75019;Paris;Le Pot de Vie
+520609;48.852471, 2.404497;Dimanche;20 rue Deveria;75020;Paris;Le Cantal
+520625;48.921914, 2.539255;;17 Pl. de la Libération;93190;Livry-Gargan;Le Fontenoy
+520627;48.872522, 2.373632;;26 rue du Château d'eau;75010;Paris;Tabac le Navy
+530480;48.866625, 2.351731;;47 rue Montorgueil;75002;Paris;Calumet des Halles
+530481;48.831735, 2.367073;;47 Av. de Choisy;75013;Paris;Tabac de Choisy
+530482;48.804452, 2.351878;;26 Av. de Fontainebleau;94270;Le Kremlin-Bicêtre;Le Royal Marigny
+530514;48.772566, 2.327217;Mercredi;31 Av. des Dahlias;94240;L'Haÿ-les-Roses;Le Week End
+530536;48.716083, 2.40649;Dimanche;0 1-3 Pl. de Rothenburg;91200;Athis-Mons;Le Rothenburg
+540629;48.913623, 2.292275;Dimanche;102 Av. d'Argenteuil;92600;Asnières-sur-Seine;Le Rénitas
+510067;48.881508, 2.232296;Dimanche;117 rue Jean Jaurès;92800;Puteaux;Le Diplomate
+510237;48.926672, 2.261993;Lundi;125 Av. de Stalingrad;92700;Colombes;La Belle Colombes
+510243;48.875598, 2.194162;;53 rue Haute;92500;Rueil-Malmaison;Le Richelieu
+510296;48.819445, 2.247853;;4 Pl. Paul Vaillant Couturier;92130;Issy-les-Moulineaux;Le Fumoir
+510401;48.77766, 2.268352;;10 Av. de la Libération;92350;Le Plessis-Robinson;Tabac du Marché
+510582;48.877615, 2.312373;Dimanche;15 rue la Boétie;75008;Paris;Tabac Le Derby
+520047;48.85812, 2.512732;Dimanche;3 rue des Renouillères;93360;Neuilly-Plaisance;Virgule
+520292;48.880661, 2.377187;;76 Av. de Flandre;75019;Paris;Le Marigny
+520388;48.93221, 2.405656;Dimanche;1 Av. Paul Vaillant Couturier;93120;La Courneuve;L'Imprévu
+520406;48.915483, 2.467763;Dimanche;14 rue Arthur Fontaine;93700;Drancy;Librairie Fontaine
+520518;48.86853, 2.419924;Dimanche;28 Av. du Général de Gaulle;93170;Bagnolet;Civette de Bel Est
+520534;48.880661, 2.377187;;37 rue Alphonse Karr;75019;Paris;Karr Presse
+520574;48.855626, 2.357026;Dimanche;37 rue des Deux Ponts;75004;Paris;Le Saint-louis
+530436;48.839047, 2.332933;;55 rue du Père Corentin;75014;Paris;Le Saint-Laurent
+530496;48.839047, 2.332933;;5 Av. du Général Leclerc;75014;Paris;Tabac du lion
+540108;48.784344, 2.381742;Dimanche;2 rue Eugène Henaff CCial;94400;Vitry-sur-Seine;Eliyah
+540551;48.866625, 2.351731;Dimanche;150 rue Saint-Denis;75002;Paris;Le Losange
+510229;48.90196, 2.299159;Dimanche;83 Bd Jean Jaurès;92110;Clichy;Tabac de la Mairie
+510292;48.880008, 2.203497;;87 rue Maurice Thorez;92000;Nanterre;L‘Européen
+510617;48.90196, 2.299159;Dimanche;8 rue Georges Boisseau;92110;Clichy;Civette le Breizh
+510637;48.904633, 2.338298;Dimanche;56 rue des Rosiers;93400;Saint-Ouen;Tabac les Rosiers
+510642;48.880008, 2.203497;;167 Bd des Provinces Françaises;92000;Nanterre;LE SOYOUZ
+510654;48.913623, 2.292275;;102 Av. d'Argenteuil;92600;Asnières-sur-Seine;Le Renitas
+520003;48.881093, 2.431978;Mercredi;3 rue de Paris;93230;Romainville;Tabac de la Mairie
+520149;48.944878, 2.556817;Dimanche;4 Av. du parc de la Noue;93420;Villepinte;Villa Picta
+520272;48.928676, 2.527589;;10 rue de la Gare;93270;Sevran;Le Terminus
+520337;48.92996, 2.35306;Dimanche;32 rue de la République;93200;Saint-Denis;Le Métropole
+520357;48.88236, 2.620064;Dimanche;20 rue Gambetta;77500;Chelles;Espace Gambetta
+520460;48.889799, 2.465743;Dimanche;7 Bd de la République;93130;Noisy-le-Sec;Le Brazza
+520491;48.915368, 2.551732;Dimanche;26 Pl. de la Tour;93390;Clichy-sous-Bois;Tabac de La Mairie
+520494;48.921914, 2.539255;Lundi;39 rue Eugène Masse;93190;Livry-Gargan;Le Cyrano
+520508;48.852471, 2.404497;Dimanche;54 rue de Bagnolet;75020;Paris;Tabac Krys
+520530;48.92996, 2.35306;Jeudi;2 Pl. du Square Pierre de Geyter;93200;Saint-Denis;Le Fontenoy
+520579;48.82007, 2.465875;Dimanche;3 Av. Jean Jaurès;94340;Joinville-le-Pont;Le Joinville
+520583;48.880661, 2.377187;;1 rue de Romainville;75019;Paris;Civette Télègraphe
+520621;48.892324, 2.540729;Dimanche;13 Pl. Tavarnelle;93220;Gagny;Tabac du Chesnay
+520648;48.889799, 2.465743;Dimanche;1 rue Anatole France;93130;Noisy-le-Sec;Le Celtique
+520655;48.852471, 2.404497;;306 rue de Belleville;75020;Paris;Tabac Pte des Lilas
+530291;48.831735, 2.367073;Dimanche;53 Bd  Arago;75013;Paris;Tabac  Arago
+530337;48.784344, 2.381742;Dimanche;6 Pl. Paul Froment;94400;Vitry-sur-Seine;Le Reinitas
+530469;48.852773, 2.340696;Dimanche;9 rue de Sevres;75006;Paris;Le Brazza
+540084;48.765389, 2.365802;Dimanche;15 rue de la Tour;94550;Chevilly-Larue;Tabac de la Tour
+540136;48.781734, 2.358716;Dimanche;29 Av. Paul Vaillant-Couturier;94800;Villejuif;Le Disque Bleu
+510260;48.778134, 2.236447;Dimanche;9 rte du Pavé Blanc;92140;Clamart;Le Temps de Lire
+510333;48.894782, 2.322923;Dimanche;70-72 Bd des Batignolles;75017;Paris;Le Chaptal
+510335;48.877615, 2.312373;Dimanche;5 rue de Miromesnil;75008;Paris;Elysée
+510409;48.894782, 2.322923;Dimanche;73 Av. de Clichy;75017;Paris;Royal Clichy
+510494;48.955869, 2.295877;;15 Imp. du Noyer Bossu;93800;Épinay-sur-Seine;Presse L'Obélisque
+510579;48.892534, 2.281958;Dimanche;75 rue Victor Hugo;92300;Levallois-Perret;Le Lutetia
+510594;48.853806, 2.293985;Dimanche;197 rue Lecourbe;75015;Paris;L'Ariel
+510608;48.926672, 2.261993;Dimanche;76 Av. Henri Barbusse;92700;Colombes;Le Régence
+510625;48.819445, 2.247853;;267 rue Jean Jacques Rousseau;92130;Issy-les-Moulineaux;Café Tramway d'Issy
+510630;48.897048, 2.241683;;9 rue Sainte-Marie;92400;Courbevoie;Librairie Ste Marie
+510644;48.853806, 2.293985;;37 Bd Victor;75015;Paris;Les Aviateurs
+520500;48.8491, 2.371086;Samedi;48 Av. du Général Michel Bizot;75012;Paris;Bar Le Diplomate
+520548;48.920796, 2.483518;Lundi;5 rue Jacques Duclos;93600;Aulnay-sous-Bois;Tabac du Marché
+530165;48.831735, 2.367073;Dimanche;7 rue Elsa Morante;75013;Paris;Maison de la Presse
+530234;48.781734, 2.358716;Dimanche;33 Av. de Paris;94800;Villejuif;Tabac Ile de France
+530266;48.856246, 2.323946;;27 Bd de la Tour Maubourg;75007;Paris;Le Centenaire
+530347;48.81049, 2.347848;;54 Av. Raspail;94250;Gentilly;Tabac le Gallia
+530446;48.839047, 2.332933;;84 rue Raymond Losserand;75014;Paris;Le 7 ème Art
+530485;48.786791, 2.330118;Dimanche;13 Av. de la Division Leclerc;94230;Cachan;Librairie du Parc
+530488;48.856246, 2.323946;Dimanche;23 Av.de la Motte Picquet;75007;Paris;Cave a Cigares
+530507;48.813513, 2.449794;;29 Av. de la République;94700;Maisons-Alfort;La Civette
+530552;48.831735, 2.367073;;129 Bd Masséna;75013;Paris;Tabac - Presse
+530554;48.702005, 2.321789;;36 Av. Mazarin C.C.de Bel Abord;91380;Chilly-Mazarin;Le Calumet
+540079;48.752575, 2.419658;Mercredi;64 Av. Victor Hugo;94600;Choisy-le-Roi;Civette des Gondoles
+540517;48.877615, 2.312373;Dimanche;1 rue Clapeyron;75008;Paris;L' Espace Tabac
+540545;48.831735, 2.367073;Dimanche;64 rue de Tolbiac;75013;Paris;Le Rallye
+540658;48.92996, 2.35306;Mercredi;34 rue Gabriel Péri;93200;Saint-Denis;Au Maryland
+510460;48.960601, 2.274468;Dimanche;2 Bd Léon Feix;95100;Argenteuil;Le Brelan
+510492;48.875598, 2.194162;;2 rue du Gué;92500;Rueil-Malmaison;Le Narval
+510591;48.844596, 2.219476;Dimanche;37 rue d'Orléans;92210;Saint-Cloud;Tabac de la Colline
+510619;48.884769, 2.335947;;2 Pl. de la Chapelle;75018;Paris;La Royale
+520255;48.893158, 2.412544;;135 Av.  Jean Lolive;93500;Pantin;Le Victor Hugo
+520327;48.92996, 2.35306;Dimanche;68 rue Gabriel Péri;93200;Saint-Denis;Au Diplomate
+520331;48.893158, 2.412544;Dimanche;2 Av. Édouard Vaillant;93500;Pantin;Au Petit Tabac
+520427;48.915679, 2.481798;Dimanche;64 rue Jules Guesde;93140;Bondy;Tabac du Centre
