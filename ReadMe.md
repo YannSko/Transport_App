@@ -41,4 +41,9 @@ Ce projet tente de répondre à la problématique ci-dessus.
 
 ## Application
 
+<<<<<<< HEAD
+=======
+## Data Architecture ( Yann)
+
+>>>>>>> 5da017b4c8b5d8390a6d5269639c713335463a2d
 ## Hosting (réservé à Augustin)
