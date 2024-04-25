@@ -1,20 +1,5 @@
 import axios from "axios";
 
-
-// export const TryInputAddress = async (data) => {
-//     return axios({
-//         method: 'put',
-//         url: 'http://localhost:3001/getAddress?q=1+rue',
-//         data: data,
-//     })
-//     .then((res) => {
-//         return({status: res.status})
-//     })
-//     .catch((res) => {
-//         return({status: res.response.status, data: res.response.data})
-//     })
-// }
-
 export const TryInputAddress = (query) => {
     return axios
       .get('http://localhost:3001/getAddress', {
@@ -22,12 +7,29 @@ export const TryInputAddress = (query) => {
       })
       .then((response) => {
         if (response.status === 200) {
-          return response.data; // Return the data on success
+          return response.data; 
         } else {
           throw new Error(`Request failed with status ${response.status}`);
         }
       })
       .catch((error) => {
-        throw new Error(`Error during API call: ${error.message}`); // Handle errors
+        throw new Error(`Error during API call: ${error.message}`);
       });
   };
+
+export const TryGetItineraire = (from, to) => {
+    return axios
+      .get('http://localhost:3001/getItineraire', {
+        params: { from: from, to: to },
+      })
+      .then((response) => {
+        if (response.status === 200) {
+          return response.data; 
+        } else {
+          throw new Error(`Request failed with status ${response.status}`);
+        }
+      })
+      .catch((error) => {
+        throw new Error(`Error during API call: ${error.message}`);
+      });
+}

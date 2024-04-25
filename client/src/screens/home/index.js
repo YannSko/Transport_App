@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
 import '../../App.css';
 import React from 'react';
+import FindAddress from '../../components/address';
 import DataGeojson from '../../common/traces-du-reseau-ferre-idf.json'
 // import FuturDataGeojson from '../../common/projets_lignes_idf.json'
 
@@ -51,6 +52,10 @@ export default function Home() {
     };
 
     return(
+      <div style={{
+        display: 'flex',
+        }}>
+        <FindAddress/>
         <MapContainer center={position} zoom={13}>
             <TileLayer
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -58,5 +63,6 @@ export default function Home() {
             />
             <GeoJSON data={geojson} onEachFeature={onEachFeature} style={lineStyle}/>
         </MapContainer>
+        </div>
     )
 }

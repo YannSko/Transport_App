@@ -1,4 +1,6 @@
 import * as addressController from './controllers/address_controller.js';
+import * as itineraireController from './controllers/itineraire_controller.js';
+
 import express from 'express';
 import cors from 'cors';
 import { exec } from 'child_process';
@@ -18,6 +20,8 @@ app.get('/', (req, res) => {
 })
 
 app.get('/getAddress', addressController.getAddressController);
+
+app.get('/getItineraire', itineraireController.getItineraireController);
 
 app.listen(3001, () => {
     console.log("✅ : App connected to port 3001\n");
