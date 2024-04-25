@@ -1,19 +1,27 @@
-const express = require('express');
-const app = express();
-const cors = require('cors');
-// set up pyspark
-const { exec } = require('child_process');
+import * as addressController from './controllers/address_controller.js';
+import express from 'express';
+import cors from 'cors';
+import { exec } from 'child_process';
 
+const app = express();
 app.use(cors())
 
-app.listen(3001, () => {
-    console.log("✅ : App connected to port 3001\n");
-})
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+    next();
+});
 
 app.get('/', (req, res) => {
       res.send('Hello from our server!')
 })
 
+app.get('/getAddress', addressController.getAddressController);
+
+app.listen(3001, () => {
+    console.log("✅ : App connected to port 3001\n");
+})
 
 
 
