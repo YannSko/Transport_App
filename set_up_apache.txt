@@ -1,6 +1,0 @@
-- 1 Create v env with python ( 3.12 for mysel)
-- 1 bis activate env : .\.Venv\Scripts\activate
-- 2 pip install pyspark
-- 3 Donwload hadoop ( 3.3.6 avec un winutils.exe)
-- 4 set up var environnement
-- 5 run and create session
