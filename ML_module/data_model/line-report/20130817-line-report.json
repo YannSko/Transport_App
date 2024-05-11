@@ -1,0 +1,39 @@
+{
+    "pagination": {
+        "total_result": 0,
+        "start_page": 0,
+        "items_per_page": 25,
+        "items_on_page": 0
+    },
+    "error": {
+        "id": "no_solution",
+        "message": "no result for this request"
+    },
+    "feed_publishers": [
+        {
+            "id": "osm",
+            "name": "openstreetmap",
+            "url": "https://www.openstreetmap.org/copyright",
+            "license": "ODbL"
+        }
+    ],
+    "disruptions": [],
+    "context": {
+        "current_datetime": "20240511T140833",
+        "timezone": "Europe/Paris"
+    },
+    "line_reports": [],
+    "warnings": [
+        {
+            "id": "beta_endpoint",
+            "message": "This service is under construction. You can help through github.com/hove-io/navitia"
+        }
+    ],
+    "links": [
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/line_reports?since=20130817T000000&until=20130824T000000",
+            "type": "first",
+            "templated": false
+        }
+    ]
+}

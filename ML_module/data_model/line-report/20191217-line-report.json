@@ -1,0 +1,2013 @@
+{
+    "pagination": {
+        "total_result": 10,
+        "start_page": 0,
+        "items_per_page": 25,
+        "items_on_page": 10
+    },
+    "feed_publishers": [
+        {
+            "id": "osm",
+            "name": "openstreetmap",
+            "url": "https://www.openstreetmap.org/copyright",
+            "license": "ODbL"
+        },
+        {
+            "id": "IDFM:idfm_netex",
+            "name": "idfm_netex",
+            "url": "",
+            "license": "private"
+        }
+    ],
+    "disruptions": [
+        {
+            "id": "fa1ba274-f5b5-11ee-91ff-0a58a9feac02",
+            "disruption_id": "0ca76202-b3c7-4deb-aa04-4a196ec59033",
+            "impact_id": "fa1ba274-f5b5-11ee-91ff-0a58a9feac02",
+            "application_periods": [
+                {
+                    "begin": "20181123T000000",
+                    "end": "20240531T235900"
+                }
+            ],
+            "status": "active",
+            "updated_at": "20240408T164042",
+            "cause": "information",
+            "category": "Communication",
+            "severity": {
+                "name": "perturb\u00e9e",
+                "effect": "SIGNIFICANT_DELAYS",
+                "color": "#EF662F",
+                "priority": 30
+            },
+            "messages": [
+                {
+                    "text": "<p>En raison de difficult\u00e9s de circulation \u00e0 Evry-Courcouronnes, l'arr\u00eat Paul Delouvrier n'est pas desservi jusqu'\u00e0 nouvel ordre. Merci de vous reporter aux arr\u00eats Gare d'Evry-Courcouronnes Centre et Les Estudines. La ligne 401 dessert les arr\u00eats Avenue du Lac et Bois Briard.</p>",
+                    "channel": {
+                        "content_type": "text/html",
+                        "id": "3ae8df3e-7488-11e8-ac3b-005056a47b86",
+                        "name": "moteur",
+                        "types": [
+                            "web"
+                        ]
+                    }
+                },
+                {
+                    "text": "D\u00e9viation Tram T12 \u00e0 Evry-Courcouronnes",
+                    "channel": {
+                        "content_type": "text/plain",
+                        "id": "d9dbc5a6-7a06-11e8-8b8c-005056a44da2",
+                        "name": "titre",
+                        "types": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "impacted_objects": [
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01616",
+                        "name": "Evry Centre Essonne Bus 401",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01616",
+                            "name": "Rue Berlioz - Corbeil-Essonnes",
+                            "code": "401",
+                            "color": "BAB1D7",
+                            "text_color": "000000",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "400400401"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01616:"
+                                },
+                                {
+                                    "type": "tice_rt",
+                                    "value": "C01616"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1080",
+                                "name": "Evry Centre Essonne",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1080:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "045700",
+                            "closing_time": "002100",
+                            "properties": [
+                                {
+                                    "name": "realtime_system",
+                                    "value": "tice_rt"
+                                }
+                            ],
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                }
+            ],
+            "uri": "fa1ba274-f5b5-11ee-91ff-0a58a9feac02",
+            "disruption_uri": "0ca76202-b3c7-4deb-aa04-4a196ec59033",
+            "contributor": "shortterm.tr_idfm"
+        },
+        {
+            "id": "6b3d4450-ef95-4122-8729-06f472849c7f",
+            "disruption_id": "aeb480a6-e3b9-4cbe-a965-4253e0e457e8",
+            "impact_id": "6b3d4450-ef95-4122-8729-06f472849c7f",
+            "application_periods": [
+                {
+                    "begin": "20161103T000000",
+                    "end": "20301103T235900"
+                }
+            ],
+            "status": "active",
+            "updated_at": "20220623T175041",
+            "cause": "information",
+            "category": "Communication",
+            "severity": {
+                "name": "information",
+                "effect": "OTHER_EFFECT",
+                "color": "#43B77A",
+                "priority": 60
+            },
+            "messages": [
+                {
+                    "text": "Fil\u00e9o, un service avec r\u00e9servation",
+                    "channel": {
+                        "content_type": "text/plain",
+                        "id": "d9dbc5a6-7a06-11e8-8b8c-005056a44da2",
+                        "name": "titre",
+                        "types": [
+                            "title"
+                        ]
+                    }
+                },
+                {
+                    "text": "<p><b><span style=\"font-size: 14px;\"><font color=\"#73a5ad\">1 / Inscrivez-vous sur le site Fil\u00e9o</font></span></b></p><p>Pour vous inscrire, vous pouvez au choix :</p><p>\u2022 contacter la centrale de r\u00e9servation au 01 74 37 24 77 (appel non surtax\u00e9).<br>\u2022 utiliser notre plateforme de r\u00e9servation en ligne<br>\u2022 t\u00e9l\u00e9charger notre application gratuite Android et iOS<br>Vous recevrez une confirmation dans les deux heures suivant votre inscription.</p><p><b><span style=\"font-size: 14px;\"><font color=\"#bd9400\">2 / R\u00e9servez votre trajet</font></span></b></p><p>Jusqu'\u00e0 une heure avant votre d\u00e9part, vous pouvez r\u00e9server votre trajet 7 jours sur 7, 24 heures sur 24.</p><p></p><p></p><p></p><p>Lire tous les d\u00e9tails concernant les possibilit\u00e9s de r\u00e9server votre trajet Fil\u00e9o</p><p><b><span style=\"font-size: 14px;\"><font color=\"#e79439\">3 / Indiquez vos arr\u00eats de d\u00e9part et d'arriv\u00e9e</font></span></b></p><p>En indiquant votre arr\u00eat Fil\u00e9o de d\u00e9part et votre arr\u00eat Fil\u00e9o d'arriv\u00e9e, vous recevrez une confirmation de votre r\u00e9servation.</p><p>Si votre trajet entra\u00eene une correspondance, r\u00e9servez le trajet 1 et le trajet 2.</p><p><b><span style=\"font-size: 14px;\"><font color=\"#ce0000\">4 / Une confirmation vous est envoy\u00e9e</font></span></b></p><p></p><p></p><p></p><p>Consultez votre rappel de confirmation indiquant l'heure exacte de votre Fil\u00e9o envoy\u00e9 au plus tard une heure avant votre trajet.</p><p><b><span style=\"font-size: 14px;\"><font color=\"#6ba54a\">5 / Rendez-vous \u00e0 votre arr\u00eat Fil\u00e9o 5 minutes avant le d\u00e9part</font></span></b></p><p></p><p></p><p></p><p>Afin de garantir la bonne prise en charge de votre r\u00e9servation, merci d'arriver \u00e0 votre arr\u00eat Fil\u00e9o un peu avant l'heure indiqu\u00e9e sur votre r\u00e9servation.</p><p><b><span style=\"font-size: 14px;\"><font color=\"#a54a7b\">6 / La mont\u00e9e dans le v\u00e9hicule</font></span></b></p><p>Indiquez votre nom au conducteur/trice du v\u00e9hicule et validez votre titre de transport.</p><p> </p><p>Attention ! Un seul bagage aux dimensions \u00ab cabine \u00bb (55cm x 25 cm x 35cm et environ 12kg) est accept\u00e9 par voyageur.&nbsp;</p><p>Voyager avec fil\u00e9o tous les jours, c'est si facile !<br></p><p>Plus d'informations sur le service Fil\u00e9o <a href=\"http://www.fileo.com/\" target=\"_blank\">en cliquant ici.&nbsp;</a></p>",
+                    "channel": {
+                        "content_type": "text/html",
+                        "id": "3ae8df3e-7488-11e8-ac3b-005056a47b86",
+                        "name": "moteur",
+                        "types": [
+                            "web"
+                        ]
+                    }
+                },
+                {
+                    "text": "\u2728\u2600\ufe0f Les \u00e9quipes Keolis Mobilit\u00e9s Roissy vous souhaitent une tr\u00e8s belle journ\u00e9e en ce 23 juin 2022 !",
+                    "channel": {
+                        "content_type": "text/plain",
+                        "id": "17eac900-7a07-11e8-a990-005056a47b86",
+                        "name": "notification",
+                        "types": [
+                            "notification"
+                        ]
+                    }
+                }
+            ],
+            "impacted_objects": [
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01431",
+                        "name": "Roissy Ouest Bus Fil\u00e9o SAR",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01431",
+                            "name": "A\u00e9roport CDG 1 (Terminal 3) - Sarcelles - Saint-Brice",
+                            "code": "Fil\u00e9o SAR",
+                            "color": "006DB8",
+                            "text_color": "FFFFFF",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "116295001"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01431:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1071",
+                                "name": "Roissy Ouest",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1071:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "214000",
+                            "closing_time": "070300",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                },
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C02060",
+                        "name": "Roissy Ouest Bus Fil\u00e9o RS",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C02060",
+                            "name": "Fil\u00e9o Roissy Sud - Villeparisis et Mitry (sur r\u00e9servation)",
+                            "code": "Fil\u00e9o RS",
+                            "color": "4890CD",
+                            "text_color": "FFFFFF",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "116277010"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C02060:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1071",
+                                "name": "Roissy Ouest",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1071:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "202200",
+                            "closing_time": "080500",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                },
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01823",
+                        "name": "Roissy Ouest Bus St-Pathus",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01823",
+                            "name": "Les Fr\u00easnes - A\u00e9roport CDG 1 (Terminal 3)",
+                            "code": "St-Pathus",
+                            "color": "E01921",
+                            "text_color": "FFFFFF",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "116277009"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01823:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1071",
+                                "name": "Roissy Ouest",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1071:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "162000",
+                            "closing_time": "133500",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                },
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01433",
+                        "name": "Roissy Ouest Bus Fil\u00e9o VLB",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01433",
+                            "name": "Puits de la Marli\u00e8re - A\u00e9roport CDG 1 (Terminal 3)",
+                            "code": "Fil\u00e9o VLB",
+                            "color": "F69FB3",
+                            "text_color": "000000",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "116295004"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01433:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1071",
+                                "name": "Roissy Ouest",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1071:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "210600",
+                            "closing_time": "073900",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                },
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01432",
+                        "name": "Roissy Ouest Bus Fil\u00e9o GSV",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01432",
+                            "name": "Les C\u00f4teaux / Rouget de Lisle - A\u00e9roport CDG 1 (Terminal 3)",
+                            "code": "Fil\u00e9o GSV",
+                            "color": "CEC92B",
+                            "text_color": "000000",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "116295003"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01432:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1071",
+                                "name": "Roissy Ouest",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1071:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "210500",
+                            "closing_time": "070400",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                },
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01429",
+                        "name": "Roissy Ouest Bus Fil\u00e9o OTH",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01429",
+                            "name": "A\u00e9roport CDG 1 (Terminal 3) - Beaupr\u00e9",
+                            "code": "Fil\u00e9o OTH",
+                            "color": "B80B4B",
+                            "text_color": "FFFFFF",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "116277005"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01429:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1071",
+                                "name": "Roissy Ouest",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1071:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "222100",
+                            "closing_time": "055100",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                },
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01712",
+                        "name": "Roissy Ouest Bus Fil\u00e9o SF",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01712",
+                            "name": "A\u00e9roport CDG 1 (Terminal 3) - Les Grands Pr\u00e9s",
+                            "code": "Fil\u00e9o SF",
+                            "color": "FECE00",
+                            "text_color": "000000",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "116295008"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01712:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1071",
+                                "name": "Roissy Ouest",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1071:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "000000",
+                            "closing_time": "235959",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                }
+            ],
+            "uri": "6b3d4450-ef95-4122-8729-06f472849c7f",
+            "disruption_uri": "aeb480a6-e3b9-4cbe-a965-4253e0e457e8",
+            "contributor": "shortterm.tr_idfm"
+        },
+        {
+            "id": "4ab50f96-f1d7-11ee-9282-0a58a9feac02",
+            "disruption_id": "4c315b22-99ad-11e9-b189-005056a47b86",
+            "impact_id": "4ab50f96-f1d7-11ee-9282-0a58a9feac02",
+            "application_periods": [
+                {
+                    "begin": "20190628T154000",
+                    "end": "20301231T090000"
+                }
+            ],
+            "status": "active",
+            "updated_at": "20240403T182906",
+            "cause": "information",
+            "category": "Communication",
+            "severity": {
+                "name": "information",
+                "effect": "OTHER_EFFECT",
+                "color": "#43B77A",
+                "priority": 60
+            },
+            "messages": [
+                {
+                    "text": "<p>Pour tous d\u00e9placements dans MELUN Intra-muraux, vous devez prendre les Bus Urbain.</p><p>Les arr\u00eats suivants de la Ligne Express 47 en direction de PROVINS sont<strong>&nbsp;uniquement r\u00e9serv\u00e9s \u00e0 la <u>mont\u00e9e</u></strong> :</p><p>- ZI Cl\u00e9menceau / St-Just</p><p>- Place Saint Jean</p><p>- Route de Nangis</p><p>Les arr\u00eats suivants de la Ligne Express 47 en direction de MELUN sont uniquement&nbsp;<strong>r\u00e9serv\u00e9s \u00e0 la <u>descente</u></strong>&nbsp;:<br>&nbsp;</p><p>- Victor Hugo / Porte de Paris</p><p>- Place Saint Jean</p><p>- Route de Nangis</p><p>- Bancel</p><p>- ZI Cl\u00e9menceau / St-Just</p><p>&nbsp;</p>",
+                    "channel": {
+                        "content_type": "text/html",
+                        "id": "3ae8df3e-7488-11e8-ac3b-005056a47b86",
+                        "name": "moteur",
+                        "types": [
+                            "web"
+                        ]
+                    }
+                },
+                {
+                    "text": "Express 47 - Information",
+                    "channel": {
+                        "content_type": "text/plain",
+                        "id": "d9dbc5a6-7a06-11e8-8b8c-005056a44da2",
+                        "name": "titre",
+                        "types": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "impacted_objects": [
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01499",
+                        "name": "Provinois - Brie et Seine Bus 47",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01499",
+                            "name": "Rue de l'Industrie / Place de l'Ermitage - Provins",
+                            "code": "47",
+                            "color": "3BB2FF",
+                            "text_color": "000000",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "514514047"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01499:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:Bus",
+                                    "name": "Bus"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:Bus",
+                                "name": "Bus"
+                            },
+                            "network": {
+                                "id": "network:IDFM:1078",
+                                "name": "Provinois - Brie et Seine",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Network:1078:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "045500",
+                            "closing_time": "223500",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                }
+            ],
+            "uri": "4ab50f96-f1d7-11ee-9282-0a58a9feac02",
+            "disruption_uri": "4c315b22-99ad-11e9-b189-005056a47b86",
+            "contributor": "shortterm.tr_idfm"
+        },
+        {
+            "id": "9d9d6cfa-f266-11ee-acc3-0a58a9feac02",
+            "disruption_id": "f40feca9-cbfe-482a-8f45-812064b2961f",
+            "impact_id": "9d9d6cfa-f266-11ee-acc3-0a58a9feac02",
+            "application_periods": [
+                {
+                    "begin": "20171122T000000",
+                    "end": "20251222T235900"
+                }
+            ],
+            "status": "active",
+            "updated_at": "20240404T113504",
+            "tags": [
+                "Masqu\u00e9e"
+            ],
+            "cause": "information",
+            "category": "Communication",
+            "severity": {
+                "name": "information",
+                "effect": "OTHER_EFFECT",
+                "color": "#43B77A",
+                "priority": 60
+            },
+            "messages": [
+                {
+                    "text": "<p>La ligne OrlyVal n'est pas accessible avec un pass Navigo.Un ticket peut \u00eatre achet\u00e9 dans toutes les stations M\u00e9tro-RER y compris \u00e0 l'a\u00e9roport.</p>",
+                    "channel": {
+                        "content_type": "text/html",
+                        "id": "3ae8df3e-7488-11e8-ac3b-005056a47b86",
+                        "name": "moteur",
+                        "types": [
+                            "web"
+                        ]
+                    }
+                },
+                {
+                    "text": "Tarification sp\u00e9ciale OrlyVal",
+                    "channel": {
+                        "content_type": "text/plain",
+                        "id": "d9dbc5a6-7a06-11e8-8b8c-005056a44da2",
+                        "name": "titre",
+                        "types": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "impacted_objects": [
+                {
+                    "pt_object": {
+                        "id": "line:IDFM:C01388",
+                        "name": "RATP Orlyval, CDG VAL ORLYVAL",
+                        "quality": 0,
+                        "line": {
+                            "id": "line:IDFM:C01388",
+                            "name": "A\u00e9roport Orly 4 (Terminal Sud) - Antony",
+                            "code": "ORLYVAL",
+                            "color": "5EC5ED",
+                            "text_color": "FFFFFF",
+                            "codes": [
+                                {
+                                    "type": "Netex_PrivateCode",
+                                    "value": "100110200"
+                                },
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Line:C01388:"
+                                }
+                            ],
+                            "physical_modes": [
+                                {
+                                    "id": "physical_mode:RailShuttle",
+                                    "name": "Orlyval, CDG VAL"
+                                }
+                            ],
+                            "commercial_mode": {
+                                "id": "commercial_mode:RailShuttle",
+                                "name": "Orlyval, CDG VAL"
+                            },
+                            "network": {
+                                "id": "network:IDFM:Operator_100",
+                                "name": "RATP",
+                                "links": [],
+                                "codes": [
+                                    {
+                                        "type": "source",
+                                        "value": "FR1:Operator:100:LOC"
+                                    }
+                                ]
+                            },
+                            "opening_time": "060000",
+                            "closing_time": "234200",
+                            "geojson": {
+                                "type": "MultiLineString",
+                                "coordinates": []
+                            },
+                            "links": []
+                        },
+                        "embedded_type": "line"
+                    }
+                }
+            ],
+            "uri": "9d9d6cfa-f266-11ee-acc3-0a58a9feac02",
+            "disruption_uri": "f40feca9-cbfe-482a-8f45-812064b2961f",
+            "contributor": "shortterm.tr_idfm"
+        }
+    ],
+    "context": {
+        "current_datetime": "20240511T141615",
+        "timezone": "Europe/Paris"
+    },
+    "line_reports": [
+        {
+            "line": {
+                "id": "line:IDFM:C01616",
+                "name": "Rue Berlioz - Corbeil-Essonnes",
+                "code": "401",
+                "color": "BAB1D7",
+                "text_color": "000000",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "400400401"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01616:"
+                    },
+                    {
+                        "type": "tice_rt",
+                        "value": "C01616"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1080",
+                    "name": "Evry Centre Essonne",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1080:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "045700",
+                "closing_time": "002100",
+                "properties": [
+                    {
+                        "name": "realtime_system",
+                        "value": "tice_rt"
+                    }
+                ],
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "fa1ba274-f5b5-11ee-91ff-0a58a9feac02"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01616",
+                    "name": "Evry Centre Essonne Bus 401",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01616",
+                        "name": "Rue Berlioz - Corbeil-Essonnes",
+                        "code": "401",
+                        "color": "BAB1D7",
+                        "text_color": "000000",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "400400401"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01616:"
+                            },
+                            {
+                                "type": "tice_rt",
+                                "value": "C01616"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1080",
+                            "name": "Evry Centre Essonne",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1080:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "045700",
+                        "closing_time": "002100",
+                        "properties": [
+                            {
+                                "name": "realtime_system",
+                                "value": "tice_rt"
+                            }
+                        ],
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "fa1ba274-f5b5-11ee-91ff-0a58a9feac02"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01499",
+                "name": "Rue de l'Industrie / Place de l'Ermitage - Provins",
+                "code": "47",
+                "color": "3BB2FF",
+                "text_color": "000000",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "514514047"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01499:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1078",
+                    "name": "Provinois - Brie et Seine",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1078:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "045500",
+                "closing_time": "223500",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "4ab50f96-f1d7-11ee-9282-0a58a9feac02"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01499",
+                    "name": "Provinois - Brie et Seine Bus 47",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01499",
+                        "name": "Rue de l'Industrie / Place de l'Ermitage - Provins",
+                        "code": "47",
+                        "color": "3BB2FF",
+                        "text_color": "000000",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "514514047"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01499:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1078",
+                            "name": "Provinois - Brie et Seine",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1078:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "045500",
+                        "closing_time": "223500",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "4ab50f96-f1d7-11ee-9282-0a58a9feac02"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01388",
+                "name": "A\u00e9roport Orly 4 (Terminal Sud) - Antony",
+                "code": "ORLYVAL",
+                "color": "5EC5ED",
+                "text_color": "FFFFFF",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "100110200"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01388:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:RailShuttle",
+                        "name": "Orlyval, CDG VAL"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:RailShuttle",
+                    "name": "Orlyval, CDG VAL"
+                },
+                "network": {
+                    "id": "network:IDFM:Operator_100",
+                    "name": "RATP",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Operator:100:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "060000",
+                "closing_time": "234200",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "9d9d6cfa-f266-11ee-acc3-0a58a9feac02"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01388",
+                    "name": "RATP Orlyval, CDG VAL ORLYVAL",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01388",
+                        "name": "A\u00e9roport Orly 4 (Terminal Sud) - Antony",
+                        "code": "ORLYVAL",
+                        "color": "5EC5ED",
+                        "text_color": "FFFFFF",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "100110200"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01388:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:RailShuttle",
+                                "name": "Orlyval, CDG VAL"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:RailShuttle",
+                            "name": "Orlyval, CDG VAL"
+                        },
+                        "network": {
+                            "id": "network:IDFM:Operator_100",
+                            "name": "RATP",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Operator:100:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "060000",
+                        "closing_time": "234200",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "9d9d6cfa-f266-11ee-acc3-0a58a9feac02"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01432",
+                "name": "Les C\u00f4teaux / Rouget de Lisle - A\u00e9roport CDG 1 (Terminal 3)",
+                "code": "Fil\u00e9o GSV",
+                "color": "CEC92B",
+                "text_color": "000000",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "116295003"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01432:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1071",
+                    "name": "Roissy Ouest",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1071:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "210500",
+                "closing_time": "070400",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01432",
+                    "name": "Roissy Ouest Bus Fil\u00e9o GSV",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01432",
+                        "name": "Les C\u00f4teaux / Rouget de Lisle - A\u00e9roport CDG 1 (Terminal 3)",
+                        "code": "Fil\u00e9o GSV",
+                        "color": "CEC92B",
+                        "text_color": "000000",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "116295003"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01432:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1071",
+                            "name": "Roissy Ouest",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1071:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "210500",
+                        "closing_time": "070400",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01429",
+                "name": "A\u00e9roport CDG 1 (Terminal 3) - Beaupr\u00e9",
+                "code": "Fil\u00e9o OTH",
+                "color": "B80B4B",
+                "text_color": "FFFFFF",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "116277005"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01429:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1071",
+                    "name": "Roissy Ouest",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1071:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "222100",
+                "closing_time": "055100",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01429",
+                    "name": "Roissy Ouest Bus Fil\u00e9o OTH",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01429",
+                        "name": "A\u00e9roport CDG 1 (Terminal 3) - Beaupr\u00e9",
+                        "code": "Fil\u00e9o OTH",
+                        "color": "B80B4B",
+                        "text_color": "FFFFFF",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "116277005"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01429:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1071",
+                            "name": "Roissy Ouest",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1071:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "222100",
+                        "closing_time": "055100",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C02060",
+                "name": "Fil\u00e9o Roissy Sud - Villeparisis et Mitry (sur r\u00e9servation)",
+                "code": "Fil\u00e9o RS",
+                "color": "4890CD",
+                "text_color": "FFFFFF",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "116277010"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C02060:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1071",
+                    "name": "Roissy Ouest",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1071:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "202200",
+                "closing_time": "080500",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C02060",
+                    "name": "Roissy Ouest Bus Fil\u00e9o RS",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C02060",
+                        "name": "Fil\u00e9o Roissy Sud - Villeparisis et Mitry (sur r\u00e9servation)",
+                        "code": "Fil\u00e9o RS",
+                        "color": "4890CD",
+                        "text_color": "FFFFFF",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "116277010"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C02060:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1071",
+                            "name": "Roissy Ouest",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1071:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "202200",
+                        "closing_time": "080500",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01431",
+                "name": "A\u00e9roport CDG 1 (Terminal 3) - Sarcelles - Saint-Brice",
+                "code": "Fil\u00e9o SAR",
+                "color": "006DB8",
+                "text_color": "FFFFFF",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "116295001"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01431:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1071",
+                    "name": "Roissy Ouest",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1071:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "214000",
+                "closing_time": "070300",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01431",
+                    "name": "Roissy Ouest Bus Fil\u00e9o SAR",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01431",
+                        "name": "A\u00e9roport CDG 1 (Terminal 3) - Sarcelles - Saint-Brice",
+                        "code": "Fil\u00e9o SAR",
+                        "color": "006DB8",
+                        "text_color": "FFFFFF",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "116295001"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01431:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1071",
+                            "name": "Roissy Ouest",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1071:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "214000",
+                        "closing_time": "070300",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01712",
+                "name": "A\u00e9roport CDG 1 (Terminal 3) - Les Grands Pr\u00e9s",
+                "code": "Fil\u00e9o SF",
+                "color": "FECE00",
+                "text_color": "000000",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "116295008"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01712:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1071",
+                    "name": "Roissy Ouest",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1071:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "000000",
+                "closing_time": "235959",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01712",
+                    "name": "Roissy Ouest Bus Fil\u00e9o SF",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01712",
+                        "name": "A\u00e9roport CDG 1 (Terminal 3) - Les Grands Pr\u00e9s",
+                        "code": "Fil\u00e9o SF",
+                        "color": "FECE00",
+                        "text_color": "000000",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "116295008"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01712:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1071",
+                            "name": "Roissy Ouest",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1071:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "000000",
+                        "closing_time": "235959",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01433",
+                "name": "Puits de la Marli\u00e8re - A\u00e9roport CDG 1 (Terminal 3)",
+                "code": "Fil\u00e9o VLB",
+                "color": "F69FB3",
+                "text_color": "000000",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "116295004"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01433:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1071",
+                    "name": "Roissy Ouest",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1071:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "210600",
+                "closing_time": "073900",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01433",
+                    "name": "Roissy Ouest Bus Fil\u00e9o VLB",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01433",
+                        "name": "Puits de la Marli\u00e8re - A\u00e9roport CDG 1 (Terminal 3)",
+                        "code": "Fil\u00e9o VLB",
+                        "color": "F69FB3",
+                        "text_color": "000000",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "116295004"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01433:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1071",
+                            "name": "Roissy Ouest",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1071:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "210600",
+                        "closing_time": "073900",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        },
+        {
+            "line": {
+                "id": "line:IDFM:C01823",
+                "name": "Les Fr\u00easnes - A\u00e9roport CDG 1 (Terminal 3)",
+                "code": "St-Pathus",
+                "color": "E01921",
+                "text_color": "FFFFFF",
+                "codes": [
+                    {
+                        "type": "Netex_PrivateCode",
+                        "value": "116277009"
+                    },
+                    {
+                        "type": "source",
+                        "value": "FR1:Line:C01823:"
+                    }
+                ],
+                "physical_modes": [
+                    {
+                        "id": "physical_mode:Bus",
+                        "name": "Bus"
+                    }
+                ],
+                "commercial_mode": {
+                    "id": "commercial_mode:Bus",
+                    "name": "Bus"
+                },
+                "network": {
+                    "id": "network:IDFM:1071",
+                    "name": "Roissy Ouest",
+                    "links": [],
+                    "codes": [
+                        {
+                            "type": "source",
+                            "value": "FR1:Network:1071:LOC"
+                        }
+                    ]
+                },
+                "opening_time": "162000",
+                "closing_time": "133500",
+                "geojson": {
+                    "type": "MultiLineString",
+                    "coordinates": []
+                },
+                "links": [
+                    {
+                        "templated": false,
+                        "rel": "disruptions",
+                        "internal": true,
+                        "type": "disruption",
+                        "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                    }
+                ]
+            },
+            "pt_objects": [
+                {
+                    "id": "line:IDFM:C01823",
+                    "name": "Roissy Ouest Bus St-Pathus",
+                    "quality": 0,
+                    "line": {
+                        "id": "line:IDFM:C01823",
+                        "name": "Les Fr\u00easnes - A\u00e9roport CDG 1 (Terminal 3)",
+                        "code": "St-Pathus",
+                        "color": "E01921",
+                        "text_color": "FFFFFF",
+                        "codes": [
+                            {
+                                "type": "Netex_PrivateCode",
+                                "value": "116277009"
+                            },
+                            {
+                                "type": "source",
+                                "value": "FR1:Line:C01823:"
+                            }
+                        ],
+                        "physical_modes": [
+                            {
+                                "id": "physical_mode:Bus",
+                                "name": "Bus"
+                            }
+                        ],
+                        "commercial_mode": {
+                            "id": "commercial_mode:Bus",
+                            "name": "Bus"
+                        },
+                        "network": {
+                            "id": "network:IDFM:1071",
+                            "name": "Roissy Ouest",
+                            "links": [],
+                            "codes": [
+                                {
+                                    "type": "source",
+                                    "value": "FR1:Network:1071:LOC"
+                                }
+                            ]
+                        },
+                        "opening_time": "162000",
+                        "closing_time": "133500",
+                        "geojson": {
+                            "type": "MultiLineString",
+                            "coordinates": []
+                        },
+                        "links": [
+                            {
+                                "templated": false,
+                                "rel": "disruptions",
+                                "internal": true,
+                                "type": "disruption",
+                                "id": "6b3d4450-ef95-4122-8729-06f472849c7f"
+                            }
+                        ]
+                    },
+                    "embedded_type": "line"
+                }
+            ]
+        }
+    ],
+    "warnings": [
+        {
+            "id": "beta_endpoint",
+            "message": "This service is under construction. You can help through github.com/hove-io/navitia"
+        }
+    ],
+    "links": [
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/disruptions/{disruptions.id}",
+            "templated": true,
+            "rel": "disruptions",
+            "type": "disruptions"
+        },
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/lines/{line.id}",
+            "templated": true,
+            "rel": "lines",
+            "type": "line"
+        },
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/disruptions/{disruption.id}",
+            "templated": true,
+            "rel": "disruptions",
+            "type": "disruption"
+        },
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/networks/{network.id}",
+            "templated": true,
+            "rel": "networks",
+            "type": "network"
+        },
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/commercial_modes/{commercial_mode.id}",
+            "templated": true,
+            "rel": "commercial_modes",
+            "type": "commercial_mode"
+        },
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/physical_modes/{physical_modes.id}",
+            "templated": true,
+            "rel": "physical_modes",
+            "type": "physical_modes"
+        },
+        {
+            "href": "https://api.navitia.io/v1/coverage/fr-idf/line_reports?since=20191217T000000&until=20191224T000000",
+            "type": "first",
+            "templated": false
+        }
+    ]
+}
