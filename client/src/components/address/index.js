@@ -1,6 +1,6 @@
+import * as request from '../../common/requests/request.js';
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import * as request from '../../common/requests/request.js';
 
 export default function FindAddress() {
     const [firstInputValue, setFirstInputValue] = useState('');

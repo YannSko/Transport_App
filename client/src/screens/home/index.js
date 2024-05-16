@@ -1,20 +1,9 @@
-// import axios from 'axios';
-import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
-import 'leaflet/dist/leaflet.css';
-import '../../App.css';
-import React from 'react';
-import FindAddress from '../../components/address';
 import DataGeojson from '../../common/traces-du-reseau-ferre-idf.json'
-// import FuturDataGeojson from '../../common/projets_lignes_idf.json'
-
-
-// const apiCall = () => {
-//   axios.get('http://localhost:3001/').then((data) => {
-//     //this console.log will be in our frontend console
-//     console.log(data)
-//   })
-// }
-
+import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
+import FindAddress from '../../components/address';
+import 'leaflet/dist/leaflet.css';
+import React from 'react';
+import '../../App.css';
 
 export default function Home() {
     const [geojson, setGeojson] = React.useState(DataGeojson);

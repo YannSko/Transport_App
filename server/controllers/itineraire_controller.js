@@ -6,7 +6,7 @@ import * as itineraireModel from '../models/itineraire_model.js'
 export async function getItineraireController(req, res){
     itineraireModel.getItineraireModel(req)
     .then((output) => {
-        console.log('Output:', output);
+        JSON.stringify(output)
         res.status(200).send(output)
     })
     .catch((error) => {

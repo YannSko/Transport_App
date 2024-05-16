@@ -17,7 +17,7 @@ export const TryInputAddress = (query) => {
       });
   };
 
-export const TryGetItineraire = (from, to) => {
+export function TryGetItineraire(from, to) {
     return axios
       .get('http://localhost:3001/getItineraire', {
         params: { from: from, to: to },
