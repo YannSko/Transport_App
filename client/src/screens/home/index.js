@@ -77,13 +77,15 @@ const MapHome = ( {geojson, mapKey} ) => {
   };
 
   return(
-  <MapContainer center={position} zoom={13} key={key}>
+    <div>
+      <MapContainer center={position} zoom={13} key={key}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
         />
         <GeoJSON data={geojson} onEachFeature={onEachFeature} style={lineStyle} />
       </MapContainer>
+    </div>
   )
 };
 
