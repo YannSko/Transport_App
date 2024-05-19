@@ -40,21 +40,49 @@ export default function FindAddress() {
     };
 
       return (
-        <div>
-          <form>
+        <div style={{
+          height: '10rem',
+          width: '25rem',
+          position: 'absolute',
+          margin: 'auto',
+          backgroundColor:'white',
+          borderRadius: '10px',
+          padding: '1rem',
+          zIndex: 2,
+        }}>
+          <form style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+          
+          }}>
             <label>
-              First Address:
               <input
+                style={{
+                  boxSizing: 'border-box',
+                  border: '2px solid #ccc',
+                  borderRadius: '4px',
+                  fontSize: '16px',
+                  transition: 'border-color 0.3s, box-shadow 0.3s',
+                }}
                 type="text"
+                placeholder='origin'
                 value={firstInputValue}
                 onChange={(e) => handleInputChange(e, setFirstInputValue, setFirstOutput)}
               />
             </label>
             <br />
             <label>
-              Second Address:
               <input
+              style={{
+                boxSizing: 'border-box',
+                border: '2px solid #ccc',
+                borderRadius: '4px',
+                fontSize: '16px',
+                transition: 'border-color 0.3s, box-shadow 0.3s',
+              }}
                 type="text"
+                placeholder='destination'
                 value={secondInputValue}
                 onChange={(e) => handleInputChange(e, setSecondInputValue, setSecondOutput)}
               />
@@ -67,6 +95,11 @@ export default function FindAddress() {
           <div
           onMouseEnter={(e) => (e.currentTarget.style.cursor = 'pointer')}
           onMouseLeave={(e) => (e.currentTarget.style.cursor = 'default')}
+          style={{
+            backgroundColor: 'white',
+            borderRadius: '10px',
+            padding: '0.5rem',
+          }}
           >
             {firstOutput.length > 0 ? (
             firstOutput.map((item, index) => (
@@ -78,22 +111,27 @@ export default function FindAddress() {
             ) : (
             <p></p>
             )}
-        </div>
-        <div
-          onMouseEnter={(e) => (e.currentTarget.style.cursor = 'pointer')}
-          onMouseLeave={(e) => (e.currentTarget.style.cursor = 'default')}
-          >
-            {secondOutput.length > 0 ? (
-            secondOutput.map((item, index) => (
-                <p key={index}
-                onClick={() => handleSuggestionClick(item, setSecondInputValue, setSecondOutput, setSecondIdValue)}>
-                {item.name}
-                </p>
-            ))
-            ) : (
-            <p></p>
-            )}
-        </div>
+          </div>
+          <div
+            onMouseEnter={(e) => (e.currentTarget.style.cursor = 'pointer')}
+            onMouseLeave={(e) => (e.currentTarget.style.cursor = 'default')}
+            style={{
+              backgroundColor: 'white',
+              borderRadius: '10px',
+              padding: '0.5rem',
+            }}
+            >
+              {secondOutput.length > 0 ? (
+              secondOutput.map((item, index) => (
+                  <p key={index}
+                  onClick={() => handleSuggestionClick(item, setSecondInputValue, setSecondOutput, setSecondIdValue)}>
+                  {item.name}
+                  </p>
+              ))
+              ) : (
+              <p></p>
+              )}
+          </div>
         </div>
       );
     }

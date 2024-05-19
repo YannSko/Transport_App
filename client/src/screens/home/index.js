@@ -25,10 +25,7 @@ export default function Home() {
   };
 
   return (
-    <div style={{
-      display: 'flex',
-    }}>
-      <FindAddress/>
+    <div>
       <Cursor onChangeYear={filterGeojsonByYear} geojson={geojson} />
     </div>
   );
@@ -77,7 +74,14 @@ const MapHome = ( {geojson, mapKey} ) => {
   };
 
   return(
-    <div>
+    <div
+      style={{
+      position: 'absolute',
+      margin: '0',
+      width: '100%',
+      height: '100%',
+      zIndex: 0,
+    }}>
       <MapContainer center={position} zoom={13} key={key}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -102,20 +106,43 @@ const Cursor = ({ onChangeYear, geojson }) => {
   };
 
   return (
-  <div style={{width:'100%', height: '100%'}}>
-      <div style={{ width: '200px', margin: '20px' }}>
-        <Slider
-          min={1900}
-          max={new Date().getFullYear()}
-          value={selectedYear}
-          onChange={handleSliderChange}
-          marks={{ 1900: '1900', [new Date().getFullYear()]: `${new Date().getFullYear()}` }}
-        />
-        <div style={{ textAlign: 'center', marginTop: '10px' }}>
+  <div style={{
+    display: 'flex',
+    position: 'relative',
+    height: '100vh',
+    width: '100vw',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',}}>
+
+    <FindAddress/>
+
+    <div style={{ 
+      margin: '0',
+      position: 'absolute',
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      width: '80vw',
+      height: '7rem',
+      flexDirection: 'column',
+      bottom: 0,
+      left: '50%',
+      transform: 'translateX(-50%)',
+      zIndex: 3,
+      }}>
+      <Slider
+        min={1900}
+        max={new Date().getFullYear()}
+        value={selectedYear}
+        onChange={handleSliderChange}
+        marks={{ 1837: '1837', [new Date().getFullYear()]: `${new Date().getFullYear()}` }}
+    />
+      <div style={{ textAlign: 'center', marginTop: '10px' }}>
           Selected Year: {selectedYear}
-        </div>
       </div>
-      <MapHome geojson={geojson} mapKey={mapKey}/>
     </div>
+
+    <MapHome geojson={geojson} mapKey={mapKey}/>
+  </div>
   );
 };
