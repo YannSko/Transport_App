@@ -95,20 +95,20 @@ const MapHome = ( {geojson, mapKey} ) => {
 };
 
 // ----------------------------------------------------------------------------------------------------------------------------
-const ButtonToTheFuture = ({ onClick }) => {
+const ButtonToTheFuture = () => {
   const navigate = useNavigate();
 
   const handleButtonClick = () => {
-    navigate('/future_ligne');
+    navigate('/future');
   };
 
   return (
     <button 
       style={{
         position: 'absolute',
-        bottom: '10px',
+        top: '10px',
         right: '10px',
-        zIndex: 2,
+        zIndex: 3,
         padding: '10px',
         borderRadius: '10px',
         backgroundColor: 'white',
@@ -143,6 +143,8 @@ const Cursor = ({ onChangeYear, geojson }) => {
     alignItems: 'flex-start',}}>
 
     <FindAddress/>
+
+    <ButtonToTheFuture/>
 
     <div style={{ 
       margin: '0',
