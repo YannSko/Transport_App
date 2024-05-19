@@ -2,6 +2,7 @@ import subwayData from '../../common/traces-du-reseau-ferre-idf.json'
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 import React, { useState, useEffect } from 'react';
 import FindAddress from '../../components/address';
+import { useNavigate } from 'react-router-dom';
 import 'rc-slider/assets/index.css';
 import 'leaflet/dist/leaflet.css';
 import Slider from 'rc-slider';
@@ -82,7 +83,7 @@ const MapHome = ( {geojson, mapKey} ) => {
       height: '100%',
       zIndex: 0,
     }}>
-      <MapContainer center={position} zoom={13} key={key}>
+      <MapContainer center={position} zoom={10} key={key}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
@@ -91,6 +92,33 @@ const MapHome = ( {geojson, mapKey} ) => {
       </MapContainer>
     </div>
   )
+};
+
+// ----------------------------------------------------------------------------------------------------------------------------
+const ButtonToTheFuture = ({ onClick }) => {
+  const navigate = useNavigate();
+
+  const handleButtonClick = () => {
+    navigate('/future_ligne');
+  };
+
+  return (
+    <button 
+      style={{
+        position: 'absolute',
+        bottom: '10px',
+        right: '10px',
+        zIndex: 2,
+        padding: '10px',
+        borderRadius: '10px',
+        backgroundColor: 'white',
+        border: '1px solid black',
+      }}
+      onClick={handleButtonClick}
+    >
+      Go to the future
+    </button>
+  );
 };
 
 // ----------------------------------------------------------------------------------------------------------------------------
@@ -131,11 +159,11 @@ const Cursor = ({ onChangeYear, geojson }) => {
       zIndex: 3,
       }}>
       <Slider
-        min={1900}
+        min={1836}
         max={new Date().getFullYear()}
         value={selectedYear}
         onChange={handleSliderChange}
-        marks={{ 1837: '1837', [new Date().getFullYear()]: `${new Date().getFullYear()}` }}
+        marks={{ 1836: '1836', [new Date().getFullYear()]: `${new Date().getFullYear()}` }}
     />
       <div style={{ textAlign: 'center', marginTop: '10px' }}>
           Selected Year: {selectedYear}
