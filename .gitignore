@@ -1,0 +1,55 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Production build
+/build
+
+# Debugging files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# venv environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db

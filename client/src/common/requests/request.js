@@ -32,4 +32,4 @@ export function TryGetItineraire(from, to) {
       .catch((error) => {
         throw new Error(`Error during API call: ${error.message}`);
       });
-}
+};
