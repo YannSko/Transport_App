@@ -2,6 +2,7 @@
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 import { useLocation, useNavigate } from 'react-router-dom';
 import * as request from '../../common/requests/request.js';
+import Prediction from '../../components/model';
 import React, { useState, useEffect } from 'react';
 import 'leaflet/dist/leaflet.css';
 import '../../App.css';
@@ -147,6 +148,10 @@ const ButtonGenerator = ({ onChangeIndex, geojson, journey }) => {
                 }</button>
                 ))}
         </div>
+        <div>
+            <Prediction journey={geojson}/>
+        </div>
+        
         <ItineraireMap geojson={geojson} mapKey={mapKey}/>
     </div>
     );
