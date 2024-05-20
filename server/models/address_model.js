@@ -10,7 +10,7 @@ export function getAddressModel(req){
     
     return axiosInstance.get(url)
     .then(response => {
-        console.log('Response data: success ✔');
+        console.log('Address data: success ✔');
         return response.data
     })
     .catch(error => {
