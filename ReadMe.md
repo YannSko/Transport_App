@@ -50,5 +50,11 @@ le model = detect_issue.pkl
 
 et le script pour run des preds à partir des voies 
 
+- Pour lapplication streamlit comportant tout les graphs de lhistoire et l'état actuel de l'ile de France
+
+pour le run  :
+aller dans le dossier streamlit et run
+streamlit run appV2.py
+
 pred.py
 ## Hosting (réservé à Augustin)
