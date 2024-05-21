@@ -6,6 +6,9 @@ import folium
 from streamlit_folium import folium_static
 import os
 from concurrent.futures import ThreadPoolExecutor
+import json
+from datetime import datetime
+import plotly.express as px
 
 # Charger les données
 csv_file_path_population = "D:\\Transport_App\\ML_module\\data_model\\population_evol_depart\\nombre-de-residences-principales-des-communes-dile-de-france-donnee-insee0.csv"
@@ -260,3 +263,66 @@ for idx, row in df_chantiers.iterrows():
 
 folium_static(map_chantiers)
 
+# Chemin vers le fichier JSON
+file_path = r'D:\Transport_App\streamlit\template\reseau\traces-du-reseau-ferre-idf.json'  # Chemin correct vers le fichier JSON
+
+# Charger les données du fichier JSON
+try:
+    with open(file_path, 'r', encoding='utf-8') as file:
+        data_json = json.load(file)
+except FileNotFoundError:
+    st.error(f"Le fichier {file_path} est introuvable. Veuillez vérifier le chemin et réessayer.")
+    st.stop()
+
+features = data_json["features"]
+data = []
+
+for feature in features:
+    properties = feature["properties"]
+    if "date_mes" in properties:
+        date_mes = datetime.fromisoformat(properties["date_mes"][:-1]).strftime('%Y-%m-%d')
+        shape_leng = properties["shape_leng"]
+        data.append({"date_mes": date_mes, "shape_leng": shape_leng})
+    if "mode" in properties:
+        mode = properties["mode"]
+        shape_leng = properties["shape_leng"]
+        reseau = properties["reseau"]
+        exploitant = properties["exploitant"]
+        data.append({"mode": mode, "shape_leng": shape_leng, "reseau": reseau, "exploitant": exploitant})
+
+df = pd.DataFrame(data)
+
+st.title("Visualisation des Données de Transport")
+
+# Graphique : Quantité de lignes posées par année
+fig_bar = px.bar(df, x="date_mes", y="shape_leng", title="Quantité de lignes posées par année")
+fig_bar.update_yaxes(range=[0, 300000])
+st.plotly_chart(fig_bar)
+
+df['date_mes'] = pd.to_datetime(df['date_mes'])
+
+df['year'] = df['date_mes'].dt.year
+df['month'] = df['date_mes'].dt.strftime('%m')
+
+stations_per_year = df.groupby('year').size().reset_index(name='count')
+stations_per_month = df.groupby('month').size().reset_index(name='count')
+
+# Graphique : Nombre de gares ouvertes par année
+fig_year = px.bar(stations_per_year, x='year', y='count', title='Nombre de gares ouvertes par année')
+st.plotly_chart(fig_year)
+
+# Graphique : Nombre de gares ouvertes par mois
+fig_month = px.bar(stations_per_month, x='month', y='count', title='Nombre de gares ouvertes par mois')
+st.plotly_chart(fig_month)
+
+# Graphique : Quantité de lignes construites par mode de transport
+fig = px.box(df, x='mode', y='shape_leng', title='Quantité de lignes construites par mode de transport')
+st.plotly_chart(fig)
+
+# Graphique : Distribution des modes de transports
+fig_reseau = px.histogram(df, x='reseau', title='Distribution des modes de transports')
+st.plotly_chart(fig_reseau, use_container_width=True)
+
+# Graphique : Distribution des opérateurs de transport
+fig_exploitant = px.histogram(df, x='exploitant', title='Distribution des opérateurs de transport')
+st.plotly_chart(fig_exploitant, use_container_width=True)
