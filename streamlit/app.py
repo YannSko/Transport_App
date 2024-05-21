@@ -5,7 +5,7 @@ from template.reseau import reseau_ferre
 st.title("Application Streamlit avec Modules")
 
 option = st.sidebar.selectbox(
-    'Choisissez un module à afficher',
+    'Choisissez un module Ã afficher',
     ('Aucun', 'Validation')
 )
 
