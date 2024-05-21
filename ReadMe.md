@@ -1,60 +1,55 @@
-# Paris transport
+Paris Transport
 
-Comment Paris et ses banlieues adaptent leur réseau ferroviaire afin de répondre leur besoin de mobilité et comment répondent-il aux problématiques liées ?
+This project explores how Paris and its suburbs adapt their railway network to meet mobility needs and address related issues.
+Overview
+History of the Paris Metro
+Past
 
-Ce projet tente de répondre à la problématique ci-dessus.
+    Necessity: Why was the metro needed? (growing population, London model)
+    Construction: How was it built? (number of workers, construction time, quantity of materials used, types)
+    Meeting Needs: How did it meet the needs of its time? (number of users, satisfaction)
+    Evolution: How have the railway routes evolved and how has the Paris model extended to the suburbs (intra/extra km, interactive graph)
 
+Present
 
+    Current Structure: Interactive map, traffic, starting points
+    Line Usage: Evolution graph
+    Global Stats: Network statistics
+    Modernization: Modernization of lines
 
-## Histoire du métro parisien
+Future
 
-### Passé
+    Evolution: Future developments
 
-- Pourquoi le métro était une nécessité ? (démographie croissante, modèle londonnien)
-- Comment a-t-il été construit ? (nbr ouvriers, tps de chantier, qqt de matière utilisées, types)
-- Comment a-t-il répondu aux besoins de son époque ? (nbr d'usagés, satisfaction)
-- Comment les chemins ferroviaires ont évolués et comment le modèle de paris s'est étendu aux balieues (km intra/extra, graph interactif)
+Application
+ML Module with Streamlit
 
-### Présent
+In the ML_module folder:
 
-- Structure actuelle (map interactive, affluence, point start)
-- Utilisation des lignes (évolution graph)
-- Stat Global du réseau
-- modérnisation des lignes
+    Data: Contains all open-source data collected
+    Data Model: Contains all data for model training
 
-### Futur
+Files
 
-- Evolution
+All files are for processing or plotting CSV data:
 
-## Application
+    Model Development: final_model_dev.ipynb (notebook for model development)
+    CSV for Model: df_with_problems.csv (CSV file used by the model)
+    Model File: detect_issue.pkl (trained model)
+    Prediction Script: pred.py (script for running predictions based on transport routes)
 
-- Application Ml _ Streamlit
+Streamlit Application
 
-Dans le folder ML_module
+For the Streamlit application containing all graphs about the history and current state of the Île-de-France region:
 
-dans Data se trouve toutes les datas récuperer Open Source
+    Navigate to the streamlit directory.
 
-dans Data Model se trouve toutes les datas pour l'entrainement de modèle
+    Run the application:
 
+    bash
 
-Tout les files sont pour le traitement ou les plots des csv*
+    streamlit run appV2.py
 
+Hosting
 
-
-
-Il y a 3 files concernant le modele :
-
-Le developpement du model se trouve dans final model notebook
-le fichier csv pour utiliser le mode = df_with_problems.csv
-le model = detect_issue.pkl
-
-et le script pour run des preds à partir des voies 
-
-- Pour lapplication streamlit comportant tout les graphs de lhistoire et l'état actuel de l'ile de France
-
-pour le run  :
-aller dans le dossier streamlit et run
-streamlit run appV2.py
-
-pred.py
-## Hosting (réservé à Augustin)
+Reserved for Augustin.
