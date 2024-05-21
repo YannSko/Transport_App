@@ -1,4 +1,3 @@
-from streamlit_folium import folium_static
 from datetime import datetime
 import plotly.express as px
 import streamlit as st
@@ -6,7 +5,7 @@ import pandas as pd
 import folium
 import json
 
-file_path = 'traces-du-reseau-ferre-idf.json'
+file_path = './template/reseau/traces-du-reseau-ferre-idf.json'
 with open(file_path, 'r') as file:
     data_json = json.load(file)
 

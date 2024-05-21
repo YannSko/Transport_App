@@ -1,5 +1,6 @@
 import streamlit as st
-from template.validation import display_validation
+from template.validation import validation
+from template.reseau import reseau_ferre
 
 st.title("Application Streamlit avec Modules")
 
@@ -9,4 +10,6 @@ option = st.sidebar.selectbox(
 )
 
 if option == 'Validation':
-    display_validation()
+    validation()
+elif option == 'reseau':
+    reseau_ferre()
