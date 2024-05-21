@@ -111,7 +111,7 @@ const ItineraireMap = ( {geojson, mapKey} ) => {
           weight: 3,
         };
     };
-
+    console.log(geojson)
     return (
         <div>
             <MapContainer center={position} zoom={13} key={key}>
@@ -121,6 +121,9 @@ const ItineraireMap = ( {geojson, mapKey} ) => {
                 />
                 <GeoJSON data={geojson} style={lineStyle} onEachFeature={onEachFeature}/>
             </MapContainer>
+            <div>
+            <Prediction journey={geojson} key={key}/>
+        </div>
         </div>
     );
 };
@@ -148,10 +151,6 @@ const ButtonGenerator = ({ onChangeIndex, geojson, journey }) => {
                 }</button>
                 ))}
         </div>
-        <div>
-            <Prediction journey={geojson}/>
-        </div>
-        
         <ItineraireMap geojson={geojson} mapKey={mapKey}/>
     </div>
     );
