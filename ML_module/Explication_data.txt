@@ -1,0 +1,5 @@
+Ci-joint se trouve toutes les datas nécéssaires pour le projet:
+
+dans Data se trouve toutes les datas récuperer Open Source
+
+dans Data Model se trouve toutes les datas pour l'entrainement de modèle
