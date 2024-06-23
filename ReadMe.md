@@ -1,28 +1,33 @@
-Paris Transport
+# Paris Transport
 
 This project explores how Paris and its suburbs adapt their railway network to meet mobility needs and address related issues.
-Overview
-History of the Paris Metro
-Past
 
-    Necessity: Why was the metro needed? (growing population, London model)
-    Construction: How was it built? (number of workers, construction time, quantity of materials used, types)
-    Meeting Needs: How did it meet the needs of its time? (number of users, satisfaction)
-    Evolution: How have the railway routes evolved and how has the Paris model extended to the suburbs (intra/extra km, interactive graph)
+## How to launch :
 
-Present
+Go to server folder and create a .env file with your IDF mobilité API key
 
-    Current Structure: Interactive map, traffic, starting points
-    Line Usage: Evolution graph
-    Global Stats: Network statistics
-    Modernization: Modernization of lines
+Open a Termial :
 
-Future
+    $ cd server
+    $ npm i
+    $ npm start
+    
+Open another Terminal :
 
-    Evolution: Future developments
+    $ cd client
+    $ npm i 
+    $ npm start
 
-Application
-ML Module with Streamlit
+The server is nox running on the port 3000, enter this to test it :
+
+    http://localhost:3001/getAddress?q=rue
+    
+The app is running in the port 3001, enter this to see :
+
+    http://localhost:3000/
+
+
+## ML Module with Streamlit
 
 In the ML_module folder:
 
@@ -50,6 +55,3 @@ For the Streamlit application containing all graphs about the history and curren
 
     streamlit run appV2.py
 
-Hosting
-
-Reserved for Augustin.
